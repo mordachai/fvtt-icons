@@ -22,15 +22,6 @@ Search the Foundry VTT icon library by **tag** and **description**, browse a mos
 https://github.com/mordachai/fvtt-icons/releases/latest/download/module.json
 ```
 
-**Or clone directly into your modules folder:**
-
-```bash
-cd <FoundryUserData>/Data/modules
-git clone https://github.com/mordachai/fvtt-icons.git
-```
-
-The repository folder name matches the module id (`fvtt-icons`), so it works immediately after cloning.
-
 ## Usage
 
 Enable the module in your world. On first launch it creates a macro **"FVTT Icons Search"** — drag it to your hotbar.
