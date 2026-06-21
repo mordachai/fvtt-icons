@@ -2,7 +2,7 @@
   "id": "fvtt-icons",
   "title": "FVTT Icons — Image Search",
   "description": "Search Foundry icons by tag and description, browse a mosaic of results, click to copy the path.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "14"

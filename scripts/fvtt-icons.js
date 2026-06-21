@@ -184,8 +184,11 @@ Hooks.once("init", () => {
 Hooks.on("renderFilePicker", (app, element) => {
   const root = element instanceof HTMLElement ? element : element?.[0];
   if (!root) return;
-  const input = root.querySelector('input[name="target"], input[name="file"]');
-  if (!input || root.querySelector(".fvtt-icons-fp-btn")) return;
+  // Top address bar (for button placement) and the bottom "Selected" field (the real target).
+  const addressInput = root.querySelector('input[name="target"]');
+  const selectedInput = root.querySelector('input[name="file"]') ?? addressInput;
+  const anchor = addressInput ?? selectedInput;
+  if (!anchor || !selectedInput || root.querySelector(".fvtt-icons-fp-btn")) return;
 
   const btn = document.createElement("button");
   btn.type = "button";
@@ -196,12 +199,12 @@ Hooks.on("renderFilePicker", (app, element) => {
     ev.preventDefault();
     openSearch({
       onPick: path => {
-        input.value = path;
-        input.dispatchEvent(new Event("change", { bubbles: true }));
+        selectedInput.value = path;
+        selectedInput.dispatchEvent(new Event("change", { bubbles: true }));
       }
     });
   });
-  input.after(btn);
+  anchor.after(btn);
 });
 
 // Auto-create a launcher macro the first time the world is ready.
