@@ -1,0 +1,53 @@
+<div class="fvtt-icons-layout">
+
+  <aside class="fvtt-icons-sidebar">
+    <div class="fvtt-icons-search">
+      <input type="text" name="query" placeholder="Search icons by tag or description…" value="{{query}}" autocomplete="off" />
+      <div class="fvtt-icons-count">{{total}} results</div>
+    </div>
+    <div class="fvtt-icons-results">
+      {{#each results}}
+      <div class="fvtt-icons-row" data-path="{{this.path}}" data-tooltip="{{this.path}}">
+        <img data-src="{{this.path}}" decoding="async" />
+        <div>
+          <div class="fvtt-icons-name">{{this.name}}</div>
+          <div class="fvtt-icons-tags">{{this.tagline}}</div>
+        </div>
+      </div>
+      {{/each}}
+    </div>
+  </aside>
+
+  <main class="fvtt-icons-main">
+    <div class="fvtt-icons-toolbar">
+      <div class="fvtt-icons-grid-title">
+        {{#if showMosaic}}Mosaic Preview ({{shown}} of {{total}}){{/if}}
+      </div>
+      <div class="fvtt-icons-sizes">
+        <button type="button" data-size="small"  class="{{#if (eq size 'small')}}active{{/if}}" data-tooltip="Small"><i class="fas fa-th"></i></button>
+        <button type="button" data-size="medium" class="{{#if (eq size 'medium')}}active{{/if}}" data-tooltip="Medium"><i class="fas fa-th-large"></i></button>
+        <button type="button" data-size="large"  class="{{#if (eq size 'large')}}active{{/if}}" data-tooltip="Large"><i class="fas fa-square"></i></button>
+      </div>
+    </div>
+    {{#if showMosaic}}
+      <div class="fvtt-icons-grid fvtt-icons-grid--{{size}}">
+        {{#each results}}
+        <div class="fvtt-icons-card" data-path="{{this.path}}">
+          <img data-src="{{this.path}}" decoding="async" />
+          <div class="fvtt-icons-caption">{{this.path}}</div>
+        </div>
+        {{/each}}
+      </div>
+      {{#if capped}}<div class="fvtt-icons-capped">Showing first {{shown}} — refine search to see the rest.</div>{{/if}}
+    {{else}}
+      <div class="fvtt-icons-hint">
+        {{#if hasQuery}}
+          No matches. Try different terms.
+        {{else}}
+          Type to search {{libraryCount}} icons by tag or description.
+        {{/if}}
+      </div>
+    {{/if}}
+  </main>
+
+</div>

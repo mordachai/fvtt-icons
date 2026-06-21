@@ -1,0 +1,230 @@
+/* FVTT Icons — Image Search
+   Uses Foundry theme variables so it adapts to dark and light application themes.
+   --fvtt-icons-gold is the only fixed accent. */
+
+.fvtt-icons.application {
+  --fvtt-icons-gold: #c9a227;
+  --fvtt-icons-gold-soft: rgba(201, 162, 39, 0.25);
+}
+
+.fvtt-icons .window-content {
+  padding: 0;
+  overflow: hidden;
+}
+
+.fvtt-icons-layout {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  height: 100%;
+  min-height: 0;
+}
+
+/* ---------- Sidebar ---------- */
+.fvtt-icons-sidebar {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  border-right: 1px solid var(--color-border-light-tertiary, rgba(128, 128, 128, 0.4));
+  background: rgba(0, 0, 0, 0.06);
+}
+
+.fvtt-icons-search {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  border-bottom: 1px solid var(--color-border-light-tertiary, rgba(128, 128, 128, 0.4));
+}
+
+.fvtt-icons-search input {
+  width: 100%;
+}
+
+.fvtt-icons-search input:focus {
+  border-color: var(--fvtt-icons-gold);
+  box-shadow: 0 0 0 3px var(--fvtt-icons-gold-soft);
+}
+
+.fvtt-icons-count {
+  font-size: var(--font-size-12, 12px);
+  color: var(--fvtt-icons-gold);
+  text-align: right;
+}
+
+/* ---------- Result list ---------- */
+.fvtt-icons-results {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding: 6px;
+}
+
+.fvtt-icons-row {
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  gap: 10px;
+  align-items: center;
+  padding: 6px 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.fvtt-icons-row:hover {
+  background: var(--fvtt-icons-gold-soft);
+}
+
+.fvtt-icons-row img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  border-radius: 6px;
+  border: 1px solid var(--color-border-light-tertiary, rgba(128, 128, 128, 0.3));
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.fvtt-icons-name {
+  font-size: var(--font-size-13, 13px);
+  font-weight: 600;
+  color: var(--color-text-primary, inherit);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.fvtt-icons-tags {
+  margin-top: 2px;
+  font-size: var(--font-size-11, 11px);
+  color: var(--color-text-secondary, gray);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ---------- Main / mosaic ---------- */
+.fvtt-icons-main {
+  min-height: 0;
+  overflow-y: auto;
+  padding: 16px;
+}
+
+.fvtt-icons-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.fvtt-icons-grid-title {
+  font-size: var(--font-size-12, 12px);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--fvtt-icons-gold);
+}
+
+.fvtt-icons-sizes {
+  display: flex;
+  gap: 4px;
+  flex: 0 0 auto;
+}
+
+.fvtt-icons-sizes button {
+  width: 28px;
+  height: 24px;
+  line-height: 1;
+  padding: 0;
+  font-weight: 600;
+  flex: 0 0 auto;
+}
+
+.fvtt-icons-sizes button.active {
+  border-color: var(--fvtt-icons-gold);
+  box-shadow: 0 0 0 1px var(--fvtt-icons-gold);
+  color: var(--fvtt-icons-gold);
+}
+
+.fvtt-icons-grid {
+  display: grid;
+  gap: 12px;
+}
+
+.fvtt-icons-grid--small  { grid-template-columns: repeat(10, 1fr); gap: 8px; }
+.fvtt-icons-grid--medium { grid-template-columns: repeat(6, 1fr); }
+.fvtt-icons-grid--large  { grid-template-columns: repeat(4, 1fr); }
+
+.fvtt-icons-grid--small .fvtt-icons-caption { display: none; }
+
+.fvtt-icons-capped {
+  margin-top: 14px;
+  text-align: center;
+  font-size: var(--font-size-12, 12px);
+  color: var(--color-text-secondary, gray);
+}
+
+.fvtt-icons-card {
+  position: relative;
+  aspect-ratio: 1;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid var(--color-border-light-tertiary, rgba(128, 128, 128, 0.3));
+  background: rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+}
+
+.fvtt-icons-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.fvtt-icons-card:hover {
+  transform: scale(1.04);
+  border-color: var(--fvtt-icons-gold);
+  box-shadow: 0 0 0 1px var(--fvtt-icons-gold), 0 0 22px var(--fvtt-icons-gold-soft);
+  z-index: 2;
+}
+
+.fvtt-icons-caption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 14px 8px 6px;
+  font-size: var(--font-size-11, 11px);
+  color: #f1f1f1;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.15) 70%, transparent);
+  text-shadow: 0 1px 4px black;
+  opacity: 0;
+  transition: opacity 0.15s;
+  word-break: break-all;
+}
+
+.fvtt-icons-card:hover .fvtt-icons-caption {
+  opacity: 1;
+}
+
+/* ---------- FilePicker shortcut button ---------- */
+button.fvtt-icons-fp-btn {
+  flex: 0 0 auto;
+  width: 30px;
+  margin-left: 4px;
+  cursor: pointer;
+}
+
+button.fvtt-icons-fp-btn:hover {
+  color: var(--fvtt-icons-gold);
+  border-color: var(--fvtt-icons-gold);
+}
+
+.fvtt-icons-hint {
+  display: grid;
+  place-items: center;
+  height: 100%;
+  text-align: center;
+  color: var(--color-text-secondary, gray);
+  font-size: var(--font-size-14, 14px);
+  padding: 20px;
+}
