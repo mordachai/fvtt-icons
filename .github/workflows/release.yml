@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'module.json'
+  workflow_dispatch:
 
 jobs:
   check-version:
@@ -38,7 +39,7 @@ jobs:
 
   release:
     needs: check-version
-    if: needs.check-version.outputs.version-changed == 'true'
+    if: needs.check-version.outputs.version-changed == 'true' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     permissions:
       contents: write
