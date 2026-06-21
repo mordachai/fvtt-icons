@@ -1,8 +1,12 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01A1ZN1)
+
 # FVTT Icons — Image Search
 
 Search the Foundry VTT icon library by **tag** and **description**, browse a mosaic of results, and click any image to **copy its path** to the clipboard. Paste it into any image field.
 
 ![Foundry v13+](https://img.shields.io/badge/Foundry-v13%2B-informational)
+
+<img width="950" alt="fvtt-icons-search" src="https://github.com/user-attachments/assets/df46f377-aa0a-4d0c-86ec-c2e74914ff4d" />
 
 ## Features
 
@@ -32,7 +36,9 @@ You can also open it from a script macro or the console:
 Icons.Open();
 ```
 
-When picking an image for any field, click the **icon-search button** next to Foundry's File Picker browse button — choose an image and it's applied automatically.
+When picking an image for any field, click the **icon-search button** next to Foundry's File Picker browse button — choose an image and it's applied automatically:
+
+<img width="591" height="304" alt="image" src="https://github.com/user-attachments/assets/aaa3439c-eb7f-4e55-979a-a55f04a10e0c" />
 
 ## Database
 
