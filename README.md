@@ -2,7 +2,7 @@
 
 # FVTT Icons — Image Search
 
-Search the Foundry VTT icon library by **tag** and **description**, browse a mosaic of results, and click any image to **copy its path** to the clipboard. Paste it into any image field.
+Search the Foundry VTT icon library by **tag** and **description**, browse a mosaic of results, and click any image to **copy its path** to the clipboard. Direct access from the filepicker.
 
 ![Foundry v14](https://img.shields.io/badge/foundry-v14-blue?style=for-the-badge) ![Github All Releases](https://img.shields.io/github/downloads/mordachai/fvtt-icons/total.svg?style=for-the-badge) ![GitHub Release](https://img.shields.io/github/v/release/mordachai/fvtt-icons?display_name=tag&style=for-the-badge&label=Current%20version) 
 
