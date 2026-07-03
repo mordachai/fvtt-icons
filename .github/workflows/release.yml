@@ -60,7 +60,7 @@ jobs:
           VERSION=${{ steps.module-info.outputs.version }}
           REPO=${{ github.repository }}
           jq \
-            --arg manifest "https://github.com/${REPO}/releases/download/v${VERSION}/module.json" \
+            --arg manifest "https://github.com/${REPO}/releases/latest/download/module.json" \
             --arg download "https://github.com/${REPO}/releases/download/v${VERSION}/module.zip" \
             '.manifest = $manifest | .download = $download' \
             module.json > module.json.tmp
