@@ -521,7 +521,7 @@
   },
   {
     "path": "/icons/commodities/bones/bone-jaw-teeth-red.webp",
-    "tags": ["commodity", "bone", "jaw", "teeth", "red", "bone jaw", "strong", "hint", "monster", "creature", "dangerous", "fierce", "animal"],
+    "tags": ["commodity", "bone", "jaw", "teeth", "red", "bone jaw", "strong", "monster", "creature", "dangerous", "fierce", "animal"],
     "description": "A menacing cartoon jaw featuring sharp teeth set against a red background, used as a strong hint for something that requires bravery or caution."
   },
   {
@@ -691,7 +691,7 @@
   },
   {
     "path": "/icons/commodities/bones/hooves-cloven-brown.webp",
-    "tags": ["commodity", "bone", "hooves", "cloven", "brown", "cloven hooves", "creature legs", "mammal feet", "mythical creature elements", "fantasy animal design", "hooves illustration", "brown and white color scheme"],
+    "tags": ["commodity", "bone", "hooves", "cloven", "brown", "cloven hooves", "creature legs", "mammal feet", "mythical creature elements", "fantasy animal design", "hooves illustration", "white", "color"],
     "description": "This icon depicts a stylized pair of cloven hooves, reminiscent of fantastical or mythical creatures."
   },
   {
@@ -931,7 +931,7 @@
   },
   {
     "path": "/icons/commodities/bones/skull-cattle-brown.webp",
-    "tags": ["commodity", "bone", "skull", "cattle", "brown", "strong hint"],
+    "tags": ["commodity", "bone", "skull", "cattle", "brown"],
     "description": "This icon represents an 'Ogma' which is a Celtic symbol of strength and leadership, often associated with kings and warriors. It consists of a skull wearing a crown."
   },
   {
@@ -1046,7 +1046,7 @@
   },
   {
     "path": "/icons/commodities/bones/tooth-canine-tan.webp",
-    "tags": ["commodity", "bone", "tooth", "canine", "tan", "dental", "animal", "nature", "tusk", "horn", "dog", "wolf", "strong hint"],
+    "tags": ["commodity", "bone", "tooth", "canine", "tan", "dental", "animal", "nature", "tusk", "horn", "dog", "wolf"],
     "description": "The icon depicts a canine tooth, which appears as a horn-like structure with a curved and sharp tip. It is commonly associated with dogs and wolves."
   },
   {
@@ -1121,7 +1121,7 @@
   },
   {
     "path": "/icons/commodities/claws/claw-brown-black.webp",
-    "tags": ["commodity", "claw", "brown", "black", "strong", "hint", "depict", "descriptive", "keyword"],
+    "tags": ["commodity", "claw", "brown", "black", "strong", "depict", "descriptive", "keyword"],
     "description": "This image shows a stylized claw in a loop, suggesting it may be an icon or symbol related to strength or a similar concept."
   },
   {
@@ -1211,7 +1211,7 @@
   },
   {
     "path": "/icons/commodities/claws/claws-plain-brown.webp",
-    "tags": ["commodity", "claw", "plain", "brown", "strong", "hint", "thumbnail"],
+    "tags": ["commodity", "claw", "plain", "brown", "strong", "thumbnail"],
     "description": "A simple, plain depiction of two stylized claw marks."
   },
   {
@@ -1451,7 +1451,7 @@
   },
   {
     "path": "/icons/commodities/cloth/cloth-roll-yellow-green.webp",
-    "tags": ["commodity", "cloth", "roll", "yellow", "green", "strong hint", "descriptive keywords", "hint for what it depicts", "image description", "textile icon", "colorful roll"],
+    "tags": ["commodity", "cloth", "roll", "yellow", "green", "textile icon", "colorful roll"],
     "description": "The image depicts an icon of a cloth roll in vibrant shades of yellow and green. It appears to be a graphical representation commonly used as an avatar or logo."
   },
   {
@@ -1561,7 +1561,7 @@
   },
   {
     "path": "/icons/commodities/cloth/thread-and-needle.webp",
-    "tags": ["commodity", "cloth", "thread", "and", "needle", "thread and needle", "embroidery", "textile work", "sewing machine", "handcrafted", "fabric design", "metal tool", "creative", "vintage"],
+    "tags": ["commodity", "cloth", "thread", "needle", "thread and needle", "embroidery", "textile work", "sewing machine", "handcrafted", "fabric design", "metal tool", "creative", "vintage"],
     "description": "This is an icon representing the tools of textile arts and crafts: a needle threader and a sewing machine."
   },
   {
@@ -1586,7 +1586,7 @@
   },
   {
     "path": "/icons/commodities/cloth/thread-spindle-light-green.webp",
-    "tags": ["commodity", "cloth", "thread", "spindle", "light", "green", "spool of thread", "thin colorful string", "winding device", "cream spindle with green thread", "fine yarn on metal spindle", "sewing accessory", "vibrant color woven material", "spool of textile thread", "handmade craft item", "string holding machine", "textile manufacturing tool"],
+    "tags": ["commodity", "cloth", "thread", "spindle", "light", "green", "spool of thread", "thin colorful string", "winding device", "cream", "fine", "yarn", "metal", "sewing accessory", "vibrant color woven material", "spool of textile thread", "handmade craft item", "string holding machine", "textile manufacturing tool"],
     "description": "A cream-colored spool with a green, thinly wound thread, suggesting it's used for sewing or weaving."
   },
   {
@@ -1601,12 +1601,12 @@
   },
   {
     "path": "/icons/commodities/cloth/thread-spindle-red.webp",
-    "tags": ["commodity", "cloth", "thread", "spindle", "red", "strong hint", "brief description", "golden", "winding", "magical", "vintage", "artifact"],
+    "tags": ["commodity", "cloth", "thread", "spindle", "red", "golden", "winding", "magical", "vintage", "artifact"],
     "description": "An icon representing a thread spindle wrapped in red fabric. It symbolizes themes of patience, resilience, and the passage of time."
   },
   {
     "path": "/icons/commodities/cloth/thread-spindle-violet.webp",
-    "tags": ["commodity", "cloth", "thread", "spindle", "violet", "hint"],
+    "tags": ["commodity", "cloth", "thread", "spindle", "violet"],
     "description": "A violet spool of thread."
   },
   {
@@ -1656,7 +1656,7 @@
   },
   {
     "path": "/icons/commodities/cloth/yarn-skein-silver.webp",
-    "tags": ["commodity", "cloth", "yarn", "skein", "silver", "textile", "thread", "woven", "fiber", "handcrafted", "knitting", "twisted", "silver-colored", "fibril", "yarnique", "créative"],
+    "tags": ["commodity", "cloth", "yarn", "skein", "silver", "textile", "thread", "woven", "fiber", "handcrafted", "knitting", "twisted", "silver-colored", "fibril", "yarnique", "crãƒâ©ative"],
     "description": "The icon depicts a tightly wound skein of yarn with a metallic silver color, suggesting its name might be 'yarn skein silver'."
   },
   {
@@ -1716,7 +1716,7 @@
   },
   {
     "path": "/icons/commodities/currency/coin-embossed-star-gold.webp",
-    "tags": ["commodity", "currency", "coin", "embossed", "star", "gold", "gold coin", "embossed star", "strong hint", "symbol of currency", "emblematic gold coin", "wealth representation", "riches emblem", "financial symbol", "luxury money sign", "coin with embossing"],
+    "tags": ["commodity", "currency", "coin", "embossed", "star", "gold", "gold coin", "embossed star", "symbol of currency", "emblematic gold coin", "wealth representation", "riches emblem", "financial symbol", "luxury money sign", "coin with embossing"],
     "description": "This is a digital rendering of an icon named 'coin embossed star gold'. It features a golden coin adorned with a star embossed on it, suggesting themes of wealth, riches, or luxury."
   },
   {
@@ -1831,7 +1831,7 @@
   },
   {
     "path": "/icons/commodities/currency/coin-oval-rune-copper.webp",
-    "tags": ["commodity", "currency", "coin", "oval", "rune", "copper", "strong hint", "descriptive keywords", "medieval", "metal", "mysterious", "artifact"],
+    "tags": ["commodity", "currency", "coin", "oval", "rune", "copper", "medieval", "metal", "mysterious", "artifact"],
     "description": "This image depicts a stylized representation of an ancient coin or rune, symbolizing currency or a form of trade from a bygone era."
   },
   {
@@ -1921,7 +1921,7 @@
   },
   {
     "path": "/icons/commodities/currency/coins-plain-pouch-gold.webp",
-    "tags": ["commodity", "currency", "coin", "plain", "pouch", "gold", "treasure", "gold coin", "bag of coins", "rich", "iconography for currency", "symbolic wealth", "cartoon style depiction", "games or apps related to finance", "fantasy-themed image", "golden bounty", "lucky pouch"],
+    "tags": ["commodity", "currency", "coin", "plain", "pouch", "gold", "treasure", "gold coin", "bag of coins", "rich", "iconography for currency", "symbolic wealth", "cartoon style depiction", "game", "app", "finance", "fantasy-themed image", "golden bounty", "lucky pouch"],
     "description": "This is an icon that represents a bag filled with golden coins, symbolizing monetary riches and prosperity."
   },
   {
@@ -2181,7 +2181,7 @@
   },
   {
     "path": "/icons/commodities/gems/gem-amber-insect-orange.webp",
-    "tags": ["commodity", "gem", "amber", "insect", "orange", "hint", "descriptive", "vivid", "gemstone", "creative"],
+    "tags": ["commodity", "gem", "amber", "insect", "orange", "descriptive", "vivid", "gemstone", "creative"],
     "description": "This image depicts a stylized gem amber with an insect inside it, evoking the concept of preservation in time. The warm orange and yellow hues suggest a natural, organic setting."
   },
   {
@@ -2246,7 +2246,7 @@
   },
   {
     "path": "/icons/commodities/gems/gem-faceted-diamond-blue.webp",
-    "tags": ["commodity", "gem", "faceted", "diamond", "blue", "blue gemstone", "diamond shape", "faceted design", "crystal clear appearance", "three-dimensional rendering", "gem icon", "geometric pattern", "shiny surface texture", "symbol for value or status", "high-quality graphic"],
+    "tags": ["commodity", "gem", "faceted", "diamond", "blue", "blue gemstone", "diamond shape", "faceted design", "crystal clear appearance", "three-dimensional rendering", "gem icon", "geometric pattern", "shiny surface texture", "value", "status", "high-quality graphic"],
     "description": "This image depicts a faceted blue gemstone, which is commonly used as a symbol to represent something valuable, precious, or of high quality."
   },
   {
@@ -2451,7 +2451,7 @@
   },
   {
     "path": "/icons/commodities/gems/gem-raw-rough-purple.webp",
-    "tags": ["commodity", "gem", "raw", "rough", "purple", "raw meat", "purple gem", "steak", "food icon", "cartoon steak", "meat symbol", "icon of a raw steak", "gemstone depiction", "pinkish purple", "gastronomic representation"],
+    "tags": ["commodity", "gem", "raw", "rough", "purple", "raw meat", "purple gem", "steak", "food icon", "cartoon steak", "meat symbol", "gemstone depiction", "pinkish purple", "gastronomic representation"],
     "description": "The image appears to be a stylized graphic or icon representing a piece of raw meat, possibly a steak due to its shape and color. It is designed with an abstract style and could be used as a graphic for food-related apps or games."
   },
   {
@@ -2646,7 +2646,7 @@
   },
   {
     "path": "/icons/commodities/gems/gem-rough-oval-red.webp",
-    "tags": ["commodity", "gem", "rough", "oval", "red", "red gemstone", "oval-shaped", "rough texture", "gem icon", "strong image hint"],
+    "tags": ["commodity", "gem", "rough", "oval", "red", "red gemstone", "oval-shaped", "rough texture", "gem icon"],
     "description": "The 'gem rough oval red' icon depicts a gemstone of a vibrant red hue, showcasing an oval shape with a rough texture. It is a strong visual cue for elements related to gems and stones."
   },
   {
@@ -3051,7 +3051,7 @@
   },
   {
     "path": "/icons/commodities/leather/leather-bolt-grey.webp",
-    "tags": ["commodity", "leather", "bolt", "gray", "metal", "strong", "hint", "description", "keyword"],
+    "tags": ["commodity", "leather", "bolt", "gray", "metal", "strong", "description", "keyword"],
     "description": "This is an icon named 'leather bolt grey'. Use the name as a strong hint for what it depicts. Give a brief one-sentence description and 10-15 descriptive keyword tags."
   },
   {
@@ -3081,7 +3081,7 @@
   },
   {
     "path": "/icons/commodities/leather/leather-leaf-tan.webp",
-    "tags": ["commodity", "leather", "leaf", "tan", "hint", "strong", "description", "descriptive", "keyword"],
+    "tags": ["commodity", "leather", "leaf", "tan", "strong", "description", "descriptive", "keyword"],
     "description": "The image depicts a leather leaf in a tan color, suggesting an icon related to craftsmanship or material textures."
   },
   {
@@ -3176,7 +3176,7 @@
   },
   {
     "path": "/icons/commodities/leather/scales-green.webp",
-    "tags": ["commodity", "leather", "scale", "green", "strong", "hint", "depict", "rock", "moss", "jagged edges", "texture", "organic"],
+    "tags": ["commodity", "leather", "scale", "green", "strong", "depict", "rock", "moss", "jagged edges", "texture", "organic"],
     "description": "This icon is named 'Scales Green'. It depicts a close-up of green scales with jagged edges and a rough, organic texture, possibly representing something like armor made from dragon scales or mossy rocks."
   },
   {
@@ -3196,7 +3196,7 @@
   },
   {
     "path": "/icons/commodities/materials/bowl-powder-blue.webp",
-    "tags": ["commodity", "material", "bowl", "powder", "blue", "container", "hint", "strong", "metallic", "abstract", "capsule"],
+    "tags": ["commodity", "material", "bowl", "powder", "blue", "container", "strong", "metallic", "abstract", "capsule"],
     "description": "An icon of a bowl with powder in it, stylized in blue and silver tones."
   },
   {
@@ -3221,7 +3221,7 @@
   },
   {
     "path": "/icons/commodities/materials/bowl-powder-yellow.webp",
-    "tags": ["commodity", "material", "bowl", "powder", "yellow", "pot", "food", "strong hint", "hint"],
+    "tags": ["commodity", "material", "bowl", "powder", "yellow", "pot", "food"],
     "description": "A cartoon image of a pot filled with yellow powder, suggesting it could be an icon for food or substance."
   },
   {
@@ -3246,7 +3246,7 @@
   },
   {
     "path": "/icons/commodities/materials/feather-blue.webp",
-    "tags": ["commodity", "material", "feather", "blue", "blue feather", "icon of pen or quill", "symbol of writing", "simple vector illustration", "fluffy texture", "pen symbol in color blue", "graphic representation of a feather used for writing", "quill icon with a tail", "stylized feather image", "flat design of a feather on a stick"],
+    "tags": ["commodity", "material", "feather", "blue", "blue feather", "pen", "quill", "symbol of writing", "simple vector illustration", "fluffy texture", "color", "writing", "tail", "stylized feather image", "stick"],
     "description": "A stylized graphic illustration of a quill or pen with a fluffy texture and blue color, commonly associated with writing instruments."
   },
   {
@@ -3796,7 +3796,7 @@
   },
   {
     "path": "/icons/commodities/metal/ingot-stamped-green.webp",
-    "tags": ["commodity", "metal", "ingot", "stamped", "green", "stamp", "strong", "hint", "mineral", "solid", "block", "cube", "three-dimensional"],
+    "tags": ["commodity", "metal", "ingot", "stamped", "green", "stamp", "strong", "mineral", "solid", "block", "cube", "three-dimensional"],
     "description": "The icon is a digital representation of an ingot stamped with the color green."
   },
   {
@@ -3821,7 +3821,7 @@
   },
   {
     "path": "/icons/commodities/metal/ingot-stamped-steel.webp",
-    "tags": ["commodity", "metal", "ingot", "stamped", "steel", "strong", "hint", "description", "sword", "forge", "industrial", "strength", "resistance", "craftsmanship", "metallurgy", "toughness", "forged"],
+    "tags": ["commodity", "metal", "ingot", "stamped", "steel", "strong", "description", "sword", "forge", "industrial", "strength", "resistance", "craftsmanship", "metallurgy", "toughness", "forged"],
     "description": "A hard, forged metal piece with a symbol on it that signifies its strength and quality."
   },
   {
@@ -3831,7 +3831,7 @@
   },
   {
     "path": "/icons/commodities/metal/ingot-steel-cube.webp",
-    "tags": ["commodity", "metal", "ingot", "steel", "cube", "strong", "hint", "industrial", "mineral", "resource", "hardness", "durability"],
+    "tags": ["commodity", "metal", "ingot", "steel", "cube", "strong", "industrial", "mineral", "resource", "hardness", "durability"],
     "description": "An icon representing a sturdy cube of steel, often associated with strength and industrial elements."
   },
   {
@@ -3841,7 +3841,7 @@
   },
   {
     "path": "/icons/commodities/metal/ingot-teal.webp",
-    "tags": ["commodity", "metal", "ingot", "teal", "material", "hint", "object", "metallic", "coin-like", "rectangular"],
+    "tags": ["commodity", "metal", "ingot", "teal", "material", "object", "metallic", "coin-like", "rectangular"],
     "description": "A simple, rectangular teal icon representing an 'ingot'."
   },
   {
@@ -3866,7 +3866,7 @@
   },
   {
     "path": "/icons/commodities/metal/locking-mechanism-copper.webp",
-    "tags": ["commodity", "metal", "locking", "mechanism", "copper", "lock", "strong", "hint", "symbol", "number", "texture"],
+    "tags": ["commodity", "metal", "locking", "mechanism", "copper", "lock", "strong", "symbol", "number", "texture"],
     "description": "The icon is named 'locking mechanism copper' and depicts a number nine made of a metallic material, possibly copper, with an engraved lock design around it."
   },
   {
@@ -3896,7 +3896,7 @@
   },
   {
     "path": "/icons/commodities/metal/plate-curved-brass.webp",
-    "tags": ["commodity", "metal", "plate", "curved", "brass", "curve", "strong", "hint", "descriptive", "object", "golden", "ornate", "artistic"],
+    "tags": ["commodity", "metal", "plate", "curved", "brass", "curve", "strong", "descriptive", "object", "golden", "ornate", "artistic"],
     "description": "A gold-colored plate with a curved edge, possibly used for decorative purposes or in a game where the icon represents currency or treasure."
   },
   {
@@ -3941,7 +3941,7 @@
   },
   {
     "path": "/icons/commodities/metal/plating-metal-copper.webp",
-    "tags": ["commodity", "metal", "plating", "copper", "strong hint", "depict", "detailed", "textured", "industrial", "engineering", "craftsmanship"],
+    "tags": ["commodity", "metal", "plating", "copper", "depict", "detailed", "textured", "industrial", "engineering", "craftsmanship"],
     "description": "A close-up view of a 'plating metal copper' icon, showcasing its intricate details and the industrial process it represents."
   },
   {
@@ -3956,7 +3956,7 @@
   },
   {
     "path": "/icons/commodities/metal/plating-metal-steel-purple.webp",
-    "tags": ["commodity", "metal", "plating", "steel", "purple", "strong", "hint", "brief", "description", "keyword"],
+    "tags": ["commodity", "metal", "plating", "steel", "purple", "strong", "brief", "description", "keyword"],
     "description": "An icon named 'plating metal steel purple', depicting a block of purple metal with a metallic sheen, suggesting the process or material used in plating. It could be associated with electronics, engineering, or artwork."
   },
   {
@@ -4111,7 +4111,7 @@
   },
   {
     "path": "/icons/commodities/stone/masonry-block-cube-pink-white.webp",
-    "tags": ["commodity", "stone", "masonry", "block", "cube", "pink", "white", "strong hint", "description"],
+    "tags": ["commodity", "stone", "masonry", "block", "cube", "pink", "white", "description"],
     "description": "The icon depicts a pink and white cube, which represents a block of masonry material. It's a simple yet effective way to symbolize construction or building elements."
   },
   {
@@ -4411,7 +4411,7 @@
   },
   {
     "path": "/icons/commodities/stone/rock-pile-grey.webp",
-    "tags": ["commodity", "stone", "rock", "pile", "gray", "symbol", "strong", "hint", "depict", "fist", "strength", "combat", "war", "resistance", "unity", "solidarity", "revolutionary", "force", "power", "rallying cry", "motto", "defiance", "courage", "durability", "perseverance", "endurance", "resilience"],
+    "tags": ["commodity", "stone", "rock", "pile", "gray", "symbol", "strong", "depict", "fist", "strength", "combat", "war", "resistance", "unity", "solidarity", "revolutionary", "force", "power", "rallying cry", "motto", "defiance", "courage", "durability", "perseverance", "endurance", "resilience"],
     "description": "A rock pile icon in a stylized grey color, possibly representing a strong symbol or emblem."
   },
   {
@@ -4471,7 +4471,7 @@
   },
   {
     "path": "/icons/commodities/stone/stone-porous-blue.webp",
-    "tags": ["commodity", "stone", "porous", "blue", "blue stone", "porous rock", "icy texture", "cold atmosphere", "iceberg", "texture illustration", "natural geological formation", "mysterious ice form", "colorful depiction of rock and ice", "stylized rockscape"],
+    "tags": ["commodity", "stone", "porous", "blue", "blue stone", "porous rock", "icy texture", "cold atmosphere", "iceberg", "texture illustration", "natural geological formation", "mysterious ice form", "colorful", "rock", "ice", "stylized rockscape"],
     "description": "This image features an artistic interpretation of a porous, blue stone or iceberg, set against a cold atmosphere with a detailed texture that gives it an almost tactile quality."
   },
   {
@@ -4521,8 +4521,8 @@
   },
   {
     "path": "/icons/commodities/tech/bearing-steel-green.webp",
-    "tags": ["commodity", "tech", "bearing", "steel", "green", "pokémon", "ball", "pokeball", "video game"],
-    "description": "The image depicts a Pokeball, which is a spherical object used in the Pokémon series for capturing and storing creatures. This particular ball has a steel texture with green accents."
+    "tags": ["commodity", "tech", "bearing", "steel", "green", "pokãƒâ©mon", "ball", "pokeball", "video game"],
+    "description": "The image depicts a Pokeball, which is a spherical object used in the PokÃƒÂ©mon series for capturing and storing creatures. This particular ball has a steel texture with green accents."
   },
   {
     "path": "/icons/commodities/tech/blade-mechanical-cutter.webp",
@@ -4711,7 +4711,7 @@
   },
   {
     "path": "/icons/commodities/tech/cylinder-blue.webp",
-    "tags": ["commodity", "tech", "cylinder", "blue", "blue cylinder", "gap in center", "scientific equipment", "cylindrical shape", "vacuum seal", "blue and white color scheme", "circular opening", "pressure chamber", "industrial design"],
+    "tags": ["commodity", "tech", "cylinder", "blue", "blue cylinder", "gap in center", "scientific equipment", "cylindrical shape", "vacuum seal", "white", "color", "circular opening", "pressure chamber", "industrial design"],
     "description": "The icon shows a blue cylinder with a circular gap in the center, suggesting an element of vacuum technology or pressurized equipment."
   },
   {
@@ -4726,7 +4726,7 @@
   },
   {
     "path": "/icons/commodities/tech/detonator-timer.webp",
-    "tags": ["commodity", "tech", "detonator", "timer", "hint", "strong", "clock", "mechanical", "electrical", "minute", "second", "countdown", "device"],
+    "tags": ["commodity", "tech", "detonator", "timer", "strong", "clock", "mechanical", "electrical", "minute", "second", "countdown", "device"],
     "description": "The 'detonator timer' is a mechanical device that functions as a time-based trigger for an explosion or detonation event. It resembles a clock with additional electrical connections and may be used in contexts where precision timing is crucial."
   },
   {
@@ -4876,7 +4876,7 @@
   },
   {
     "path": "/icons/commodities/tech/frame-steel.webp",
-    "tags": ["commodity", "tech", "frame", "steel", "strong", "hint", "description", "keyword", "metal", "tool", "construction", "industrial"],
+    "tags": ["commodity", "tech", "frame", "steel", "strong", "description", "keyword", "metal", "tool", "construction", "industrial"],
     "description": "The image is a graphical representation of an icon labeled 'frame steel'. It depicts a sturdy, industrial-style frame made of metal components that suggest strength and durability."
   },
   {
@@ -4976,7 +4976,7 @@
   },
   {
     "path": "/icons/commodities/tech/metal-pipes.webp",
-    "tags": ["commodity", "tech", "metal", "pipe", "metal pipe", "industrial equipment", "piping system", "steel tubes", "mechanical connectors", "structural support", "conduit for fluid or gas", "engineering components", "manufacturing elements", "construction hardware"],
+    "tags": ["commodity", "tech", "metal", "pipe", "metal pipe", "industrial equipment", "piping system", "steel tubes", "mechanical connectors", "structural support", "conduit", "fluid", "gas", "engineering components", "manufacturing elements", "construction hardware"],
     "description": "An illustration of a metal piping assembly with various mechanical and structural parts, indicative of an industrial setup where pipes are used to distribute substances such as liquid or gas."
   },
   {
@@ -5061,7 +5061,7 @@
   },
   {
     "path": "/icons/commodities/tech/pipe-wood-brass.webp",
-    "tags": ["commodity", "tech", "pipe", "wood", "brass", "strong", "hint", "metal", "smoke", "fantasy", "rustic", "reed"],
+    "tags": ["commodity", "tech", "pipe", "wood", "brass", "strong", "metal", "smoke", "fantasy", "rustic", "reed"],
     "description": "An artistic depiction of a wooden pipe, possibly used for smoking or baking, with a brass band for decoration and functionality. The icon has been enhanced to appear strong and sturdy."
   },
   {
@@ -5116,7 +5116,7 @@
   },
   {
     "path": "/icons/commodities/tech/remote-control-steel-red.webp",
-    "tags": ["commodity", "tech", "remote", "control", "steel", "red", "remote control", "red button", "game controller", "joystick", "electronic device", "control knob", "action button", "button to start a process", "game accessory"],
+    "tags": ["commodity", "tech", "remote", "control", "steel", "red", "remote control", "red button", "game controller", "joystick", "electronic device", "control knob", "action button", "button", "start", "process", "game accessory"],
     "description": "An icon depicting an electronic game controller with a prominent red 'start' or 'fire' button, used in gaming interfaces."
   },
   {
@@ -5206,7 +5206,7 @@
   },
   {
     "path": "/icons/commodities/tech/valve-pressure-pipe-copper.webp",
-    "tags": ["commodity", "tech", "valve", "pressure", "pipe", "copper", "stronghint", "valve pressure pipe copper", "metal", "steampunk", "industrial", "pipework"],
+    "tags": ["commodity", "tech", "valve", "pressure", "pipe", "copper", "valve pressure pipe copper", "metal", "steampunk", "industrial", "pipework"],
     "description": "An illustration of a stylized steampunk valve pressure pipe made of copper, often seen in industrial settings."
   },
   {
@@ -5266,7 +5266,7 @@
   },
   {
     "path": "/icons/commodities/treasure/box-jade-tassel.webp",
-    "tags": ["commodity", "treasure", "box", "jade", "tassel", "jewelry box", "jade tassel", "gift", "present", "treasure chest", "christmas", "stocking stuffer", "holiday gift", "green and gold color scheme"],
+    "tags": ["commodity", "treasure", "box", "jade", "tassel", "jewelry box", "jade tassel", "gift", "present", "treasure chest", "christmas", "stocking stuffer", "holiday gift", "green", "gold", "color"],
     "description": "The icon features a jade-colored treasure chest with a red tassel, suggesting it represents a box or container that is likely used to store or display valuable items like jewelry."
   },
   {
@@ -5346,7 +5346,7 @@
   },
   {
     "path": "/icons/commodities/treasure/bust-pharaoh-gold-blue.webp",
-    "tags": ["commodity", "treasure", "bust", "pharaoh", "gold", "blue", "egyptian king", "ancient statue", "headdress", "cartoonish representation", "colorful", "royal iconography", "deity", "symbol of power and authority", "golden face", "stylized artwork"],
+    "tags": ["commodity", "treasure", "bust", "pharaoh", "gold", "blue", "egyptian king", "ancient statue", "headdress", "cartoonish representation", "colorful", "royal iconography", "deity", "power", "authority", "golden face", "stylized artwork"],
     "description": "Ancient Egyptian pharaoh's bust, symbolizing royalty, depicted in a stylized, cartoonish manner with blue and gold colors."
   },
   {
@@ -5661,7 +5661,7 @@
   },
   {
     "path": "/icons/commodities/treasure/tablet-stone-grey-pink.webp",
-    "tags": ["commodity", "treasure", "tablet", "stone", "gray", "pink", "hint", "strong", "descriptive", "keyword", "sentence", "brief"],
+    "tags": ["commodity", "treasure", "tablet", "stone", "gray", "pink", "strong", "descriptive", "keyword", "sentence", "brief"],
     "description": "The icon depicts a stylized representation of a tablet stone with shades of grey and pink, possibly indicating a magical or mystical theme."
   },
   {
@@ -5696,7 +5696,7 @@
   },
   {
     "path": "/icons/commodities/treasure/token-engraved-blue.webp",
-    "tags": ["commodity", "treasure", "token", "engraved", "blue", "symbol", "hint", "strong", "stone", "rune", "texture", "brick"],
+    "tags": ["commodity", "treasure", "token", "engraved", "blue", "symbol", "strong", "stone", "rune", "texture", "brick"],
     "description": "A blue token engraved with a mysterious rune, hinting at its magical significance."
   },
   {
@@ -5721,7 +5721,7 @@
   },
   {
     "path": "/icons/commodities/treasure/token-engraved-purple-glowing.webp",
-    "tags": ["commodity", "treasure", "token", "engraved", "purple", "glowing", "strong hint", "mystical", "fantasy", "magic"],
+    "tags": ["commodity", "treasure", "token", "engraved", "purple", "glowing", "mystical", "fantasy", "magic"],
     "description": "A digital icon of a token engraved with the letter 'T' in purple, glowing with a mystical energy."
   },
   {
@@ -5911,7 +5911,7 @@
   },
   {
     "path": "/icons/commodities/wood/bark-beige.webp",
-    "tags": ["commodity", "wood", "bark", "beige", "strong", "hint"],
+    "tags": ["commodity", "wood", "bark", "beige", "strong"],
     "description": "A stylized depiction of a piece of wood with prominent bark texture, likely used as an icon in a game or application due to its 'strong' and 'hint' qualities."
   },
   {
@@ -5956,7 +5956,7 @@
   },
   {
     "path": "/icons/commodities/wood/fence-posts-brown.webp",
-    "tags": ["commodity", "wood", "fence", "post", "brown", "painted wooden fence post", "brown wood texture", "rustic wooden post", "artistic representation of fence posts", "wood grain texture", "simple iconography for a wood post", "fence post design in a cartoon style", "symbol for rural or natural setting"],
+    "tags": ["commodity", "wood", "fence", "post", "brown", "painted wooden fence post", "brown wood texture", "rustic wooden post", "artistic", "wood grain texture", "style", "rural", "natural", "setting"],
     "description": "This is an icon named 'fence posts brown'. Use the name as a strong hint for what it depicts. Give a brief one-sentence description and 10-15 descriptive keyword tags."
   },
   {
@@ -6241,7 +6241,7 @@
   },
   {
     "path": "/icons/consumables/drinks/drink-can-red.webp",
-    "tags": ["consumables", "drink", "can", "red", "packaged food", "canned tomato soup", "hint", "tomato", "label", "container", "vibrant color", "food item"],
+    "tags": ["consumables", "drink", "can", "red", "packaged food", "canned tomato soup", "tomato", "label", "container", "vibrant color", "food item"],
     "description": "This is a cartoon icon of a red can of 'Campbell's Tomato Soup', recognizable by the brand name and distinctive tomato symbol."
   },
   {
@@ -6401,7 +6401,7 @@
   },
   {
     "path": "/icons/consumables/food/bowl-stew-tofu-potato-red.webp",
-    "tags": ["consumables", "food", "bowl", "stew", "tofu", "potato", "red", "vegetarian", "vegan", "red sauce", "cubed tofu", "diced potatoes", "garnish", "herb", "texture", "hearty meal", "wholesome", "healthy", "nutritious", "entree", "colorful", "appetizing", "comfort food", "soup bowl", "italian cuisine", "simple cooking", "family meal", "home cooked", "crisp ingredients", "traditional dish", "rich flavor", "warm meal", "nutritious vegetarian stew", "vegan-friendly entree", "hearty comfort food", "red sauce base for pasta or rice", "simple and nutritious meal", "cubed tofu as a source of protein", "diced potatoes as a source of carbohydrates", "herbs used for flavor", "garnish for visual appeal", "texture-rich stew", "italian vegetarian dish", "appetizing and filling meal", "cooking from scratch", "family-style dining", "traditional recipe", "simple food presentation"],
+    "tags": ["consumables", "food", "bowl", "stew", "tofu", "potato", "red", "vegetarian", "vegan", "red sauce", "cubed tofu", "diced potatoes", "garnish", "herb", "texture", "hearty meal", "wholesome", "healthy", "nutritious", "entree", "colorful", "appetizing", "comfort food", "soup bowl", "italian cuisine", "simple cooking", "family meal", "home cooked", "crisp ingredients", "traditional dish", "rich flavor", "warm meal", "nutritious vegetarian stew", "vegan-friendly entree", "hearty comfort food", "sauce", "base", "pasta", "rice", "simple and nutritious meal", "cubed", "source", "protein", "diced", "potatoes", "carbohydrates", "herbs used for flavor", "garnish for visual appeal", "texture-rich stew", "italian vegetarian dish", "appetizing and filling meal", "cooking from scratch", "family-style dining", "traditional recipe", "simple food presentation"],
     "description": "A bowl of hearty vegetarian stew with cubed tofu, diced potatoes, and garnished with herbs, served in a traditional soup bowl. This image depicts a comforting, healthy, nutritious meal that is suitable for vegan diets."
   },
   {
@@ -6441,7 +6441,7 @@
   },
   {
     "path": "/icons/consumables/food/cheese-cube-orange.webp",
-    "tags": ["consumables", "food", "cheese", "cube", "orange", "strong", "hint", "depict"],
+    "tags": ["consumables", "food", "cheese", "cube", "orange", "strong", "depict"],
     "description": "This is an icon named 'cheese cube orange', depicting a single piece of vibrant cheese with holes, surrounded by crumbles, on a dark surface that might represent a table or countertop."
   },
   {
@@ -6461,7 +6461,7 @@
   },
   {
     "path": "/icons/consumables/food/cheese-wheel-round-yellow.webp",
-    "tags": ["consumables", "food", "cheese", "wheel", "round", "yellow", "strong", "hint"],
+    "tags": ["consumables", "food", "cheese", "wheel", "round", "yellow", "strong"],
     "description": "An illustrated icon of a round yellow cheese wheel with a strong hint."
   },
   {
@@ -6521,7 +6521,7 @@
   },
   {
     "path": "/icons/consumables/food/cooked-potato-boiled-egg-peeled-white.webp",
-    "tags": ["consumables", "food", "cooked", "potato", "boiled", "egg", "peeled", "white", "boiled egg", "cooked potato", "peeled white", "simple 3d image", "nature scene", "food item", "realistic representation", "texture depiction", "everyday object", "stylized food", "nutritious staple", "3d rendering of a boiled egg and potato", "modern art interpretation", "common breakfast item", "food presentation"],
+    "tags": ["consumables", "food", "cooked", "potato", "boiled", "egg", "peeled", "white", "boiled egg", "cooked potato", "peeled white", "simple 3d image", "nature scene", "food item", "realistic representation", "texture depiction", "everyday object", "stylized food", "nutritious staple", "3d", "modern art interpretation", "common breakfast item", "food presentation"],
     "description": "This image depicts an icon representing a cooked potato alongside a boiled egg that has been peeled to reveal its white interior. It's labeled as 'cooked potato boiled egg peeled white', which suggests it is used as a strong hint for what it depicts."
   },
   {
@@ -6536,7 +6536,7 @@
   },
   {
     "path": "/icons/consumables/food/dried-meat-jerky-fish-red.webp",
-    "tags": ["consumables", "food", "dried", "meat", "jerky", "fish", "red", "strong", "hint"],
+    "tags": ["consumables", "food", "dried", "meat", "jerky", "fish", "red", "strong"],
     "description": "The icon depicts a piece of dried meat, possibly jerky or fish, with a vibrant red color that suggests it is strong and bold."
   },
   {
@@ -6656,7 +6656,7 @@
   },
   {
     "path": "/icons/consumables/food/spice-anise-pod.webp",
-    "tags": ["consumables", "food", "spice", "anise", "pod", "anise star", "star anise", "spice pod", "anise flower", "pod with star shape", "brown color", "five-pointed star pattern", "symbol of a spice", "food decoration", "fashionable and traditional", "used in cuisine as a flavoring agent"],
+    "tags": ["consumables", "food", "spice", "anise", "pod", "anise star", "star anise", "spice pod", "anise flower", "pod with star shape", "brown color", "five-pointed star pattern", "symbol of a spice", "food decoration", "fashionable and traditional", "cuisine", "flavoring", "agent"],
     "description": "The image depicts the icon named 'spice anise pod'. This is a five-pointed star-shaped object commonly used to represent the spice known as anise. The star shape is often associated with anise and is found in various cuisines, particularly Middle Eastern and South Asian cooking, where it is used for its distinct licorice flavor."
   },
   {
@@ -6881,7 +6881,7 @@
   },
   {
     "path": "/icons/consumables/fruit/grapefruit-citrus-cut-orange.webp",
-    "tags": ["consumables", "fruit", "grapefruit", "citrus", "cut", "orange", "citrus fruit", "strong hint"],
+    "tags": ["consumables", "fruit", "grapefruit", "citrus", "cut", "orange", "citrus fruit"],
     "description": "The image depicts an icon of a citrus fruit, specifically grapefruit, with the skin cut and sliced to reveal its inner segments."
   },
   {
@@ -6901,7 +6901,7 @@
   },
   {
     "path": "/icons/consumables/fruit/grapes-bunch-purple.webp",
-    "tags": ["consumables", "fruit", "grape", "bunch", "purple", "purple grape", "bunch of grapes", "grape bunch", "vineyard", "gourmet", "healthy snack", "concentrated sugar content", "red and green grape blend", "rich in antioxidants"],
+    "tags": ["consumables", "fruit", "grape", "bunch", "purple", "purple grape", "bunch of grapes", "grape bunch", "vineyard", "gourmet", "healthy snack", "concentrated sugar content", "red", "green", "blend", "rich in antioxidants"],
     "description": "The image is an illustration of a purple grape bunch with a vibrant hue, often associated with high sugar content. Grapes are popular fruit that can be used for snacking or as ingredients in various cuisines."
   },
   {
@@ -6921,7 +6921,7 @@
   },
   {
     "path": "/icons/consumables/fruit/jackfruit-pit-green-yellow.webp",
-    "tags": ["consumables", "fruit", "jackfruit", "pit", "green", "yellow", "green fruit", "yellow fruit", "jackfruit pit", "fruit illustration", "cartoon fruit", "fruit and seeds", "fruit with leaves", "illustration of a tropical fruit"],
+    "tags": ["consumables", "fruit", "jackfruit", "pit", "green", "yellow", "green fruit", "yellow fruit", "jackfruit pit", "fruit illustration", "cartoon fruit", "fruit and seeds", "fruit with leaves", "tropical"],
     "description": "An illustrated jackfruit with its seed open, showcasing the fruit and the seed inside."
   },
   {
@@ -7136,7 +7136,7 @@
   },
   {
     "path": "/icons/consumables/fruit/sweetsop-seed-green.webp",
-    "tags": ["consumables", "fruit", "sweetsop", "seed", "green", "hint", "name", "colorful", "vibrant"],
+    "tags": ["consumables", "fruit", "sweetsop", "seed", "green", "name", "colorful", "vibrant"],
     "description": "An illustration of a sweetsop seed with a green hue, suggesting freshness and health."
   },
   {
@@ -7191,7 +7191,7 @@
   },
   {
     "path": "/icons/consumables/grains/donut-baked-frosted-brown.webp",
-    "tags": ["consumables", "grain", "donut", "baked", "frosted", "brown", "brown donut", "frosted donut", "dessert icon", "circle with hole in center", "food item illustration", "delicious treat", "nutritious snack", "circular cake", "doughnut with frosting", "sweet treat for breakfast or snack", "icon of a baked pastry"],
+    "tags": ["consumables", "grain", "donut", "baked", "frosted", "brown", "brown donut", "frosted donut", "dessert icon", "circle", "hole", "center", "food item illustration", "delicious treat", "nutritious snack", "circular cake", "doughnut with frosting", "sweet", "treat", "breakfast", "snack", "pastry"],
     "description": "An icon of a deliciously baked donut, frosted in brown and featuring a hole in the center. Perfect as an image to represent desserts or sweet treats."
   },
   {
@@ -7561,12 +7561,12 @@
   },
   {
     "path": "/icons/consumables/meat/steak-spoiled-yellow.webp",
-    "tags": ["consumables", "meat", "steak", "spoiled", "yellow", "fruit", "orange", "food", "hint", "artistic representation", "discolored", "unfit for consumption", "blemish", "overripe"],
+    "tags": ["consumables", "meat", "steak", "spoiled", "yellow", "fruit", "orange", "food", "artistic representation", "discolored", "unfit for consumption", "blemish", "overripe"],
     "description": "A stylized illustration of a spoiled orange, symbolizing something that is not fresh or desirable."
   },
   {
     "path": "/icons/consumables/meat/tuna-fish-red.webp",
-    "tags": ["consumables", "meat", "tuna", "fish", "red", "strong hint", "symbol", "food"],
+    "tags": ["consumables", "meat", "tuna", "fish", "red", "symbol", "food"],
     "description": "A stylized icon depicting a red tuna fish."
   },
   {
@@ -7641,7 +7641,7 @@
   },
   {
     "path": "/icons/consumables/mushrooms/convex-green-brown.webp",
-    "tags": ["consumables", "mushroom", "convex", "green", "brown", "hint", "poisonous", "danger", "toxic", "neurotoxin", "amphibian", "frog", "gland"],
+    "tags": ["consumables", "mushroom", "convex", "green", "brown", "poisonous", "danger", "toxic", "neurotoxin", "amphibian", "frog", "gland"],
     "description": "A poisonous mushroom that resembles a gland, often found with amphibians."
   },
   {
@@ -7731,7 +7731,7 @@
   },
   {
     "path": "/icons/consumables/nuts/acorn-glowing-brown.webp",
-    "tags": ["consumables", "nut", "acorn", "glowing", "brown", "strong hint", "depict", "tree nut", "shell", "vivid color", "symbol"],
+    "tags": ["consumables", "nut", "acorn", "glowing", "brown", "depict", "tree nut", "shell", "vivid color", "symbol"],
     "description": "This is a stylized depiction of an acorn, glowing in shades of brown with a luminous appearance."
   },
   {
@@ -7821,7 +7821,7 @@
   },
   {
     "path": "/icons/consumables/nuts/walnut-shell-brown.webp",
-    "tags": ["consumables", "nut", "walnut", "shell", "brown", "strong hint"],
+    "tags": ["consumables", "nut", "walnut", "shell", "brown"],
     "description": "Icon of a walnut shell with a distinct brown hue, suggesting it is made of wood or bark material."
   },
   {
@@ -8266,7 +8266,7 @@
   },
   {
     "path": "/icons/consumables/potions/bottle-conical-corked-purple.webp",
-    "tags": ["consumables", "potion", "bottle", "conical", "corked", "purple", "purple liquid", "conical glass bottle", "cork stopper", "icon for potion or chemical substance"],
+    "tags": ["consumables", "potion", "bottle", "conical", "corked", "purple", "purple liquid", "conical glass bottle", "cork stopper", "chemical", "substance"],
     "description": "This is an icon named 'bottle conical corked purple'. It depicts a conical-shaped glass bottle with a purple liquid inside, and it's corked to prevent leakage. The image is likely used as a visual representation for potions or chemical substances in games, applications, or documents."
   },
   {
@@ -8356,7 +8356,7 @@
   },
   {
     "path": "/icons/consumables/potions/bottle-round-corked-pink.webp",
-    "tags": ["consumables", "potion", "bottle", "round", "corked", "pink", "cork", "hint"],
+    "tags": ["consumables", "potion", "bottle", "round", "corked", "pink", "cork"],
     "description": "This is an icon representing a round, corked bottle filled with a pink substance."
   },
   {
@@ -8616,7 +8616,7 @@
   },
   {
     "path": "/icons/consumables/potions/potion-flask-stopped-labeled-yellow.webp",
-    "tags": ["consumables", "potion", "flask", "stopped", "labeled", "yellow", "hint", "descriptive", "keyword"],
+    "tags": ["consumables", "potion", "flask", "stopped", "labeled", "yellow", "descriptive", "keyword"],
     "description": "The icon depicts a closed flask with yellow liquid, possibly representing a potion or magic elixir."
   },
   {
@@ -8656,12 +8656,12 @@
   },
   {
     "path": "/icons/consumables/potions/potion-jar-corked-orange.webp",
-    "tags": ["consumables", "potion", "jar", "corked", "orange", "strong hint", "dark background", "container", "medicine", "magical", "translucent"],
+    "tags": ["consumables", "potion", "jar", "corked", "orange", "dark background", "container", "medicine", "magical", "translucent"],
     "description": "A stylized illustration of a corked bottle filled with a yellow substance, which is commonly depicted as a potion."
   },
   {
     "path": "/icons/consumables/potions/potion-jug-corked-skull-poison-brown-green.webp",
-    "tags": ["consumables", "potion", "jug", "corked", "skull", "poison", "brown", "green", "strong hint", "descriptive keyword tags"],
+    "tags": ["consumables", "potion", "jug", "corked", "skull", "poison", "brown", "green"],
     "description": "An image of a corked skull poison potion in a brown and green hue."
   },
   {
@@ -8736,12 +8736,12 @@
   },
   {
     "path": "/icons/consumables/potions/potion-vial-tube-yellow.webp",
-    "tags": ["consumables", "potion", "vial", "tube", "yellow", "chemistry", "alchemy", "laboratory", "flask", "liquid", "experimentation", "research", "science", "transparent", "container", "analytical", "magic", "mixture", "laboratory equipment", "flask with liquid", "scientific apparatus", "reagent", "yellow substance", "glassware", "experimental setup", "potions and elixirs", "concoction", "transparent container with yellow liquid", "flask of concoction", "chemical flask", "flask full of a yellow mixture"],
+    "tags": ["consumables", "potion", "vial", "tube", "yellow", "chemistry", "alchemy", "laboratory", "flask", "liquid", "experimentation", "research", "science", "transparent", "container", "analytical", "magic", "mixture", "laboratory equipment", "flask with liquid", "scientific apparatus", "reagent", "yellow substance", "glassware", "experimental setup", "potions and elixirs", "concoction", "flask of concoction", "chemical flask", "full"],
     "description": "This icon depicts a transparent glass flask filled with a yellow fluid, possibly representing an alchemical potion or elixir being prepared in a laboratory setting."
   },
   {
     "path": "/icons/consumables/potions/round-cork-leaf-green.webp",
-    "tags": ["consumables", "potion", "round", "cork", "leaf", "green", "alcohol", "herbal remedy", "medicine", "natural product", "essential oil", "plant extract", "healing potion", "fluid container", "round glass bottle with cork and green leaf", "potion icon"],
+    "tags": ["consumables", "potion", "round", "cork", "leaf", "green", "alcohol", "herbal remedy", "medicine", "natural product", "essential oil", "plant extract", "healing potion", "fluid container", "glass", "bottle", "potion icon"],
     "description": "The image depicts an illustration of a round glass bottle containing a yellow liquid, likely representing a natural remedy or essential oil. It is adorned with a green leaf around the neck, possibly indicating the source of the contents."
   },
   {
@@ -9146,7 +9146,7 @@
   },
   {
     "path": "/icons/containers/ammunition/arrows-quiver-yellow-purple.webp",
-    "tags": ["container", "ammunition", "arrow", "quiver", "yellow", "purple", "hint", "strong", "weapon"],
+    "tags": ["container", "ammunition", "arrow", "quiver", "yellow", "purple", "strong", "weapon"],
     "description": "The icon depicts a quiver of arrows with a yellow and purple color scheme, suggesting a theme related to archery or hunting in a fantasy setting."
   },
   {
@@ -9296,7 +9296,7 @@
   },
   {
     "path": "/icons/containers/bags/pack-leather-embossed-brown.webp",
-    "tags": ["container", "bag", "pack", "leather", "embossed", "brown", "accessory", "representative of a real-life item", "cartoon style", "simple design", "stylized representation", "characteristic backpack"],
+    "tags": ["container", "bag", "pack", "leather", "embossed", "brown", "accessory", "real-life", "cartoon style", "simple design", "stylized representation", "characteristic backpack"],
     "description": "A cartoon style icon depicting a brown leather pack or bag with a simple and stylized design, representing an accessory often associated with traveling or adventure."
   },
   {
@@ -9316,7 +9316,7 @@
   },
   {
     "path": "/icons/containers/bags/pack-leather-ridged-brown.webp",
-    "tags": ["container", "bag", "pack", "leather", "ridged", "brown", "strong hint"],
+    "tags": ["container", "bag", "pack", "leather", "ridged", "brown"],
     "description": "This is an image of a leather ridged brown pack, possibly used for traveling or carrying items."
   },
   {
@@ -9701,7 +9701,7 @@
   },
   {
     "path": "/icons/containers/bags/satchel-leather-grey.webp",
-    "tags": ["container", "bag", "satchel", "leather", "gray", "pouch", "hint"],
+    "tags": ["container", "bag", "satchel", "leather", "gray", "pouch"],
     "description": "A brown, leather satchel icon with a strap on the shoulder and a round buckle on the front. This image is named 'satchel leather grey'."
   },
   {
@@ -9741,7 +9741,7 @@
   },
   {
     "path": "/icons/containers/barrels/barrel-apple-steel-orange.webp",
-    "tags": ["container", "barrel", "apple", "steel", "orange", "wooden", "hint", "strong", "depict", "chain"],
+    "tags": ["container", "barrel", "apple", "steel", "orange", "wooden", "strong", "depict", "chain"],
     "description": "An icon of a barrel with chains, suggesting it might be used to represent storage or captivity in the context of an online game or application."
   },
   {
@@ -9761,7 +9761,7 @@
   },
   {
     "path": "/icons/containers/barrels/barrel-hogshead-cask-oak-brown.webp",
-    "tags": ["container", "barrel", "hogshead", "cask", "oak", "brown", "wooden barrel", "ale", "beverage container", "barrel icon", "storage for liquids", "representational art", "3d artwork", "symbolic representation of beer or wine"],
+    "tags": ["container", "barrel", "hogshead", "cask", "oak", "brown", "wooden barrel", "ale", "beverage container", "barrel icon", "storage for liquids", "representational art", "3d artwork", "beer", "wine"],
     "description": "An illustration of a barrel, likely representing the storage and maturation process for beverages like ale or wine."
   },
   {
@@ -9806,7 +9806,7 @@
   },
   {
     "path": "/icons/containers/barrels/barrel-reinforced-chestnut-brown.webp",
-    "tags": ["container", "barrel", "reinforced", "chestnut", "brown", "hint", "strong", "metal", "wooden", "worn", "sturdy", "trekking", "adventure", "storage", "durable", "travel", "outdoor", "equipment", "gear", "camping"],
+    "tags": ["container", "barrel", "reinforced", "chestnut", "brown", "strong", "metal", "wooden", "worn", "sturdy", "trekking", "adventure", "storage", "durable", "travel", "outdoor", "equipment", "gear", "camping"],
     "description": "This is an icon named 'barrel reinforced chestnut brown'. It likely represents a durable and weather-resistant storage container, possibly used for hiking or outdoor adventures."
   },
   {
@@ -9836,7 +9836,7 @@
   },
   {
     "path": "/icons/containers/boxes/box-gift-blue.webp",
-    "tags": ["container", "box", "gift", "blue", "present", "wrapped", "holiday", "occasion", "surprise", "birthday", "thank you", "special delivery", "online shopping", "unopened", "symbolic of giving", "3d rendering", "flat lay", "virtual present", "digital gift", "computer graphic", "web icon", "graphical representation", "simple yet effective design", "monochrome", "icon for a website or application", "non-photographic image"],
+    "tags": ["container", "box", "gift", "blue", "present", "wrapped", "holiday", "occasion", "surprise", "birthday", "thank you", "special delivery", "online shopping", "unopened", "symbolic of giving", "3d rendering", "flat lay", "virtual present", "digital gift", "computer graphic", "web icon", "graphical representation", "simple yet effective design", "monochrome", "website", "application", "non-photographic image"],
     "description": "A virtual gift box wrapped in blue, symbolizing giving and occasions like birthdays, anniversaries, holidays, or thank you gifts. It's a simple yet effective design used in computer graphics, web icons, and graphic representations."
   },
   {
@@ -9891,7 +9891,7 @@
   },
   {
     "path": "/icons/containers/boxes/crate-reinforced-yellow.webp",
-    "tags": ["container", "box", "crate", "reinforced", "yellow", "strong", "hint", "package", "durable", "resistant", "stackable", "transportable"],
+    "tags": ["container", "box", "crate", "reinforced", "yellow", "strong", "package", "durable", "resistant", "stackable", "transportable"],
     "description": "The image shows a reinforced yellow crate, which appears to be made of sturdy material for transporting and storing items securely."
   },
   {
@@ -10046,7 +10046,7 @@
   },
   {
     "path": "/icons/containers/chest/chest-simple-box-steel-brown.webp",
-    "tags": ["container", "chest", "box", "steel", "brown", "treasure chest", "steel box", "brown color", "simple design", "retrieval item", "indicates storage of valuables or items", "not locked", "two-dimensional representation", "game object"],
+    "tags": ["container", "chest", "box", "steel", "brown", "treasure chest", "steel box", "brown color", "simple design", "retrieval item", "indicates", "storage", "valuable", "item", "not locked", "two-dimensional representation", "game object"],
     "description": "This is a simple, stylized depiction of a treasure chest that suggests it is made of steel and has a brown color. It is an icon commonly used in games to represent an item or container for retrieving valuables or items."
   },
   {
@@ -10501,7 +10501,7 @@
   },
   {
     "path": "/icons/containers/kitchenware/vase-clay-painted-brown-white.webp",
-    "tags": ["container", "kitchenware", "vase", "clay", "painted", "brown", "white", "pottery", "ceramic vase", "handcrafted", "decorative art", "vintage style", "brown and white color scheme", "circular shape", "earthenware"],
+    "tags": ["container", "kitchenware", "vase", "clay", "painted", "brown", "white", "pottery", "ceramic vase", "handcrafted", "decorative art", "vintage style", "color", "circular shape", "earthenware"],
     "description": "This icon depicts a traditional, hand-painted ceramic vase with a warm brown base featuring a pattern of white stripes and dots, evoking an antique or folk art feel."
   },
   {
@@ -10526,7 +10526,7 @@
   },
   {
     "path": "/icons/containers/misc/basket-handle-woven-yellow.webp",
-    "tags": ["container", "misc", "basket", "handle", "woven", "yellow", "woven basket", "handled bag", "shopping bag icon", "textured yellow", "golden handle design", "reusable shopping bag", "bag with a curved top", "icon of a wicker purse", "handheld shopper", "eco-friendly tote", "basket with a distinctive handle", "yellow basket on dark background"],
+    "tags": ["container", "misc", "basket", "handle", "woven", "yellow", "woven basket", "handled bag", "shopping bag icon", "textured yellow", "golden handle design", "reusable shopping bag", "bag", "curved", "top", "wicker", "purse", "handheld shopper", "eco-friendly tote", "distinctive", "dark", "background"],
     "description": "The icon depicts an elegant, curved golden handle design on a stylized yellow woven basket. It could be used as a strong hint for what the image represents in terms of handheld shopping bags or eco-friendly tote products."
   },
   {
@@ -10546,7 +10546,7 @@
   },
   {
     "path": "/icons/containers/misc/bucket-steel-red.webp",
-    "tags": ["container", "misc", "bucket", "steel", "red", "strong hint", "metal", "golden", "handle", "carry", "storage", "vintage"],
+    "tags": ["container", "misc", "bucket", "steel", "red", "metal", "golden", "handle", "carry", "storage", "vintage"],
     "description": "A stylized representation of a vintage metal bucket with a red interior and gold handle, set against a dark blue background."
   },
   {
@@ -10621,7 +10621,7 @@
   },
   {
     "path": "/icons/creatures/abilities/fang-tooth-blood-red.webp",
-    "tags": ["creature", "ability", "fang", "tooth", "blood", "red", "vampire fang", "blood dripping", "supernatural symbol", "gothic emblem", "red toothed logo", "metallic shield with bite mark", "fantasy blood", "fanged creature", "dark fantasy artwork", "horror icon"],
+    "tags": ["creature", "ability", "fang", "tooth", "blood", "red", "vampire fang", "blood dripping", "supernatural symbol", "gothic emblem", "red toothed logo", "metallic", "shield", "bite", "mark", "fantasy blood", "fanged creature", "dark fantasy artwork", "horror icon"],
     "description": "A vintage and detailed metal shield with a red fang bite mark at the center, surrounded by a ring of intricate patterns and dripping blood. This symbol is often associated with supernatural creatures or themes."
   },
   {
@@ -10661,7 +10661,7 @@
   },
   {
     "path": "/icons/creatures/abilities/mouth-teeth-lamprey-red.webp",
-    "tags": ["creature", "ability", "mouth", "teeth", "lamprey", "red", "monster", "strong hint"],
+    "tags": ["creature", "ability", "mouth", "teeth", "lamprey", "red", "monster"],
     "description": "An animated image of a red monster with sharp teeth, giving the impression of a lamprey or an aggressive sea creature."
   },
   {
@@ -10731,7 +10731,7 @@
   },
   {
     "path": "/icons/creatures/abilities/stinger-poison-scorpion-brown.webp",
-    "tags": ["creature", "ability", "stinger", "poison", "scorpion", "brown", "strong hint", "green background", "drooling", "hint", "image description", "sickly drool", "digital illustration", "character design", "animated graphic", "mascot", "cute monster", "illustration style", "cartoon scorpion"],
+    "tags": ["creature", "ability", "stinger", "poison", "scorpion", "brown", "green background", "drooling", "sickly drool", "digital illustration", "character design", "animated graphic", "mascot", "cute monster", "illustration style", "cartoon scorpion"],
     "description": "This is an icon named 'stinger poison scorpion brown'. It depicts a cartoon-style graphic of a scorpion with drool dripping from its mouth. The background is green and it has the words 'stinger poison scorpion' written on it, suggesting that this image could be related to venom or toxins."
   },
   {
@@ -11226,7 +11226,7 @@
   },
   {
     "path": "/icons/creatures/invertebrates/spider-striped-web-red.webp",
-    "tags": ["creature", "invertebrate", "spider", "striped", "web", "red", "strong", "hint", "description"],
+    "tags": ["creature", "invertebrate", "spider", "striped", "web", "red", "strong", "description"],
     "description": "This is the icon 'spider striped web red'."
   },
   {
@@ -11401,7 +11401,7 @@
   },
   {
     "path": "/icons/creatures/mammals/bat-movement-flying-blue-purple.webp",
-    "tags": ["creature", "mammal", "bat", "movement", "flying", "blue", "purple", "strong hint", "winged creature", "dark background"],
+    "tags": ["creature", "mammal", "bat", "movement", "flying", "blue", "purple", "winged creature", "dark background"],
     "description": "A stylized, cartoonish bat with wings soaring through the air against a dark purple backdrop."
   },
   {
@@ -11496,7 +11496,7 @@
   },
   {
     "path": "/icons/creatures/mammals/livestock-pig-green.webp",
-    "tags": ["creature", "mammal", "livestock", "pig", "green", "animal", "farm animal", "gold coin on pig's back", "green color", "simple design", "cartoon style", "symbol for livestock"],
+    "tags": ["creature", "mammal", "livestock", "pig", "green", "animal", "farm animal", "gold", "coin", "pig's", "back", "green color", "simple design", "cartoon style", "symbol for livestock"],
     "description": "This icon is a stylized representation of a pig, commonly used in illustrations or as a symbol associated with farming and agriculture."
   },
   {
@@ -11531,7 +11531,7 @@
   },
   {
     "path": "/icons/creatures/mammals/spirit-deer-herd-blue.webp",
-    "tags": ["creature", "mammal", "spirit", "deer", "herd", "blue", "fantasy creature", "wildlife", "mythical", "magic", "spirit deer", "cartoonish", "blue and green color scheme"],
+    "tags": ["creature", "mammal", "spirit", "deer", "herd", "blue", "fantasy creature", "wildlife", "mythical", "magic", "spirit deer", "cartoonish", "green", "color"],
     "description": "An illustrated spirit deer herd with glowing blue bodies standing against a mystical backdrop of the night sky."
   },
   {
@@ -11581,7 +11581,7 @@
   },
   {
     "path": "/icons/creatures/reptiles/lizard-mouth-glowing-red.webp",
-    "tags": ["creature", "reptile", "lizard", "mouth", "glowing", "red", "monster", "red eyes", "glowing teeth", "threatening expression", "dark fantasy", "evil grin", "icon for fear or terror", "fictional creature", "demonic presence", "creature from a game or story", "menacing smile"],
+    "tags": ["creature", "reptile", "lizard", "mouth", "glowing", "red", "monster", "red eyes", "glowing teeth", "threatening expression", "dark fantasy", "evil grin", "fear", "terror", "fictional creature", "demonic presence", "game", "story", "menacing smile"],
     "description": "The image shows an animated character with a menacing appearance, featuring glowing red eyes and sharp teeth set in a wide grin. The design suggests that this might be a representation of a terrifying creature, often associated with fear and danger within fantasy or horror genres."
   },
   {
@@ -11591,7 +11591,7 @@
   },
   {
     "path": "/icons/creatures/reptiles/snake-fangs-bite-green-yellow.webp",
-    "tags": ["creature", "reptile", "snake", "fang", "bite", "green", "yellow", "green snake", "yellow snake", "strong hint", "symbol", "game", "character design"],
+    "tags": ["creature", "reptile", "snake", "fang", "bite", "green", "yellow", "green snake", "yellow snake", "symbol", "game", "character design"],
     "description": "A green and yellow cartoon-style icon of a serpent with open fangs, depicting aggression or power."
   },
   {
@@ -12056,7 +12056,7 @@
   },
   {
     "path": "/icons/environment/creatures/crustacean-shrimp-large.webp",
-    "tags": ["environment", "creature", "crustacean", "shrimp", "large", "squid", "octopus", "marine life", "underwater creature", "sea animal", "cartoon illustration", "sea invertebrate", "ocean dweller", "illustrated image", "iconic symbol", "brown and white color scheme"],
+    "tags": ["environment", "creature", "crustacean", "shrimp", "large", "squid", "octopus", "marine life", "underwater creature", "sea animal", "cartoon illustration", "sea invertebrate", "ocean dweller", "illustrated image", "iconic symbol", "brown", "white", "color"],
     "description": "The image depicts an icon that represents a large crustacean, specifically a shrimp. The illustration is stylized with a cartoonish flair and uses a limited color palette."
   },
   {
@@ -12241,7 +12241,7 @@
   },
   {
     "path": "/icons/environment/creatures/golem-stone-purple.webp",
-    "tags": ["environment", "creature", "golem", "stone", "purple", "strong hint", "purple golem", "stone purple", "pixel art", "computer graphic", "digital illustration", "robot", "futuristic"],
+    "tags": ["environment", "creature", "golem", "stone", "purple", "purple golem", "stone purple", "pixel art", "computer graphic", "digital illustration", "robot", "futuristic"],
     "description": "This is an icon named 'golem stone purple', depicting a stylized robotic golem with a distinctive purple hue, possibly indicating a theme or style within the context it is used."
   },
   {
@@ -12461,7 +12461,7 @@
   },
   {
     "path": "/icons/environment/settlement/fence-wooden-picket.webp",
-    "tags": ["environment", "settlement", "fence", "wooden", "picket", "hint", "descriptive", "painted", "cartoonish", "flat design"],
+    "tags": ["environment", "settlement", "fence", "wooden", "picket", "descriptive", "painted", "cartoonish", "flat design"],
     "description": "This icon represents a wooden picket fence, typically used in cartoons or graphic illustrations to indicate a simple structure. The name suggests it is a 'fence wooden picket' which conveys its purpose and material."
   },
   {
@@ -12731,7 +12731,7 @@
   },
   {
     "path": "/icons/environment/settlement/watchtower-silhouette-yellow.webp",
-    "tags": ["environment", "settlement", "watchtower", "silhouette", "yellow", "strong hint", "detailed illustration", "dark background", "bright yellow outline", "castle tower", "warning sign", "crisp design"],
+    "tags": ["environment", "settlement", "watchtower", "silhouette", "yellow", "detailed illustration", "dark background", "bright yellow outline", "castle tower", "warning sign", "crisp design"],
     "description": "The image is a stylized icon that features a silhouette of a watchtower on a rocky surface with a fiery or magma-like background."
   },
   {
@@ -13007,7 +13007,7 @@
   {
     "path": "/icons/environment/wilderness/statue-hound-horned.webp",
     "tags": ["environment", "wilderness", "statue", "hound", "horned", "monster", "dinosaur", "rock", "desert", "creature", "fossil", "mythical", "prehistoric"],
-    "description": "This image depicts a 'statue hound horned' – a fantastical creature that seems to be part dog and part dinosaur, characterized by its large eyes and spiky horns. It is standing on rocky ground that resembles a desert landscape."
+    "description": "This image depicts a 'statue hound horned' Ã¢â‚¬â€œ a fantastical creature that seems to be part dog and part dinosaur, characterized by its large eyes and spiky horns. It is standing on rocky ground that resembles a desert landscape."
   },
   {
     "path": "/icons/environment/wilderness/terrain-forest-gray.webp",
@@ -13081,7 +13081,7 @@
   },
   {
     "path": "/icons/equipment/back/cape-layered-green-eye.webp",
-    "tags": ["equipment", "back", "cape", "layered", "green", "eye", "strong hint"],
+    "tags": ["equipment", "back", "cape", "layered", "green", "eye"],
     "description": "The 'Cape Layered Green Eye' icon depicts a woven green fabric with an intricate, abstract design that resembles an eye."
   },
   {
@@ -13116,7 +13116,7 @@
   },
   {
     "path": "/icons/equipment/back/cape-layered-simple-brown.webp",
-    "tags": ["equipment", "back", "cape", "layered", "brown", "hint", "strong", "weather", "clothing", "protective", "garment"],
+    "tags": ["equipment", "back", "cape", "layered", "brown", "strong", "weather", "clothing", "protective", "garment"],
     "description": "A layered brown cape icon, possibly representing a simple weather-resistant garment designed to protect the wearer from elements."
   },
   {
@@ -13376,7 +13376,7 @@
   },
   {
     "path": "/icons/equipment/back/cloakcollared-red-gold.webp",
-    "tags": ["equipment", "back", "cloakcollared", "red", "gold", "cloak", "strong hint", "collared", "robe", "mysterious", "dark background", "historical", "fantasy"],
+    "tags": ["equipment", "back", "cloakcollared", "red", "gold", "cloak", "collared", "robe", "mysterious", "dark background", "historical", "fantasy"],
     "description": "The icon suggests a cloak with a rich red color, possibly adorned with gold trim. The collar is prominently displayed, indicating a regal or important figure in a historical or fantasy setting."
   },
   {
@@ -13686,7 +13686,7 @@
   },
   {
     "path": "/icons/equipment/chest/coat-collared-red.webp",
-    "tags": ["equipment", "chest", "coat", "collared", "red", "red coat", "collar", "strong hint", "fashion accessory", "clothing item"],
+    "tags": ["equipment", "chest", "coat", "collared", "red", "red coat", "collar", "fashion accessory", "clothing item"],
     "description": "A depiction of a red collared coat."
   },
   {
@@ -14191,7 +14191,7 @@
   },
   {
     "path": "/icons/equipment/feet/boots-leather-blue.webp",
-    "tags": ["equipment", "feet", "boot", "leather", "blue", "blue boots", "footwear", "leather boot", "warmth protection", "outdoor gear", "icon for 'boots leather blue'", "cartoon boot", "stylized footwear", "artistic depiction of a boot", "boot iconography"],
+    "tags": ["equipment", "feet", "boot", "leather", "blue", "blue boots", "footwear", "leather boot", "warmth protection", "outdoor gear", "cartoon boot", "stylized footwear", "artistic", "boot iconography"],
     "description": "This image features a cartoon or stylized representation of a blue leather boot, likely intended as an icon for 'boots leather blue'. The boot is depicted in profile and seems to be designed with exaggerated lines for artistic effect. It could be used as part of a branding scheme or as a symbol for products or services related to footwear, protection from the cold, or outdoor activities."
   },
   {
@@ -14511,7 +14511,7 @@
   },
   {
     "path": "/icons/equipment/feet/tech-red-boot.webp",
-    "tags": ["equipment", "feet", "tech", "red", "boot", "representative", "strong hint", "description", "keyword tags"],
+    "tags": ["equipment", "feet", "tech", "red", "boot", "representative", "description"],
     "description": "The icon named 'tech red boot' depicts a high-tech, futuristic, or robotic boot that could be associated with science fiction themes, advanced technology, or the concept of cybernetics in design."
   },
   {
@@ -14601,7 +14601,7 @@
   },
   {
     "path": "/icons/equipment/finger/ring-band-engraved-silver.webp",
-    "tags": ["equipment", "finger", "ring", "band", "engraved", "silver", "wedding ring", "jewelry", "silver band", "ring band engraved silver", "band ring", "engraved metal ring", "handcrafted silver ring with purple stones", "unique silver ring design", "fine jewelry", "artisanal ring with intricate designs"],
+    "tags": ["equipment", "finger", "ring", "band", "engraved", "silver", "wedding ring", "jewelry", "silver band", "ring band engraved silver", "band ring", "engraved metal ring", "handcrafted", "purple", "stone", "unique silver ring design", "fine jewelry", "artisanal", "intricate"],
     "description": "A handcrafted, engraved silver ring band featuring a distinctive design with purple stone accents and an intricate metal pattern."
   },
   {
@@ -14621,7 +14621,7 @@
   },
   {
     "path": "/icons/equipment/finger/ring-band-gold-purple.webp",
-    "tags": ["equipment", "finger", "ring", "band", "gold", "purple", "strong hint", "description", "keyword tags", "depict", "fantasy", "luxury", "jewelry", "accessory"],
+    "tags": ["equipment", "finger", "ring", "band", "gold", "purple", "description", "depict", "fantasy", "luxury", "jewelry", "accessory"],
     "description": "A stylized, luxurious fantasy icon featuring a gold band with purple gemstones, suggesting an elegant and precious accessory."
   },
   {
@@ -14651,7 +14651,7 @@
   },
   {
     "path": "/icons/equipment/finger/ring-band-studded-gold.webp",
-    "tags": ["equipment", "finger", "ring", "band", "studded", "gold", "bronze ring", "golden ring with blue stones", "wedding ring", "couple's rings", "ring set", "rings for commitment", "symbol of love and loyalty", "ornate ring design", "jewelry for special occasions"],
+    "tags": ["equipment", "finger", "ring", "band", "studded", "gold", "bronze ring", "golden", "blue", "stone", "wedding ring", "couple's rings", "ring set", "rings for commitment", "love", "loyalty", "ornate ring design", "jewelry for special occasions"],
     "description": "The icon depicts a set of two rings, one large and the other smaller. Both are made of a copper-colored metal with intricate designs. The larger ring features blue stones embedded in its surface, while both rings have a textured pattern around the circumference."
   },
   {
@@ -14976,7 +14976,7 @@
   },
   {
     "path": "/icons/equipment/finger/ring-eye-gold-red.webp",
-    "tags": ["equipment", "finger", "ring", "eye", "gold", "red", "jewelry", "gold ring", "eye jewel", "rune stone", "magical ring", "ring with a gemstone", "fantasy accessory", "ring with red and black elements", "eye socket as a gem setting", "dark fantasy", "fictional artifact"],
+    "tags": ["equipment", "finger", "ring", "eye", "gold", "red", "jewelry", "gold ring", "eye jewel", "rune stone", "magical ring", "ring with a gemstone", "fantasy accessory", "black", "element", "socket", "gem", "setting", "dark fantasy", "fictional artifact"],
     "description": "This is an icon named 'ring eye eye gold red'. It depicts a ring with an eye-like jewel set within its design. The ring has a gold color and the gemstone within it is a combination of red and black."
   },
   {
@@ -15056,7 +15056,7 @@
   },
   {
     "path": "/icons/equipment/finger/ring-horned-gold-blue.webp",
-    "tags": ["equipment", "finger", "ring", "horned", "gold", "blue", "hint"],
+    "tags": ["equipment", "finger", "ring", "horned", "gold", "blue"],
     "description": "A golden ring with a blue gemstone, set in a horned base."
   },
   {
@@ -15081,7 +15081,7 @@
   },
   {
     "path": "/icons/equipment/finger/ring-inlay-skull-silver.webp",
-    "tags": ["equipment", "finger", "ring", "inlay", "skull", "silver", "skull ring", "silver band", "icon ring inlay skull silver", "jewelry with skull design", "biker style ring", "animal tooth ring", "intricate metalwork", "wearable art piece", "metal handcrafted skull ring", "unique and bold statement jewelry", "fashion accessory with a dark theme", "highly detailed silver skull design", "edgy fashion statement", "heavy metal skull ring"],
+    "tags": ["equipment", "finger", "ring", "inlay", "skull", "silver", "skull ring", "silver band", "jewelry with skull design", "biker style ring", "animal tooth ring", "intricate metalwork", "wearable art piece", "metal handcrafted skull ring", "unique", "bold", "statement", "jewelry", "fashion", "accessory", "dark", "theme", "highly", "detailed", "edgy fashion statement", "heavy metal skull ring"],
     "description": "The icon depicts an intricately designed silver ring inlay that features the silhouette of a skull. The ring has a biker-style band and is adorned with what appears to be an animal's tooth. It is handcrafted, showcasing high detail, and serves as a bold fashion accessory with a dark theme."
   },
   {
@@ -15231,7 +15231,7 @@
   },
   {
     "path": "/icons/equipment/hand/gauntlet-plate-steel-gold.webp",
-    "tags": ["equipment", "hand", "gauntlet", "plate", "steel", "gold", "plate armor", "metal gauntlet", "fantasy weaponry", "armor with claw designs", "knight's gauntlet", "gold accents on steel armor", "mystical warrior attire", "protective footwear with gold detailing", "warrior boots with metallic claws", "hero's armament", "fantasy gaming item"],
+    "tags": ["equipment", "hand", "gauntlet", "plate", "steel", "gold", "plate armor", "metal gauntlet", "fantasy weaponry", "armor with claw designs", "knight's gauntlet", "accent", "armor", "mystical warrior attire", "protective", "footwear", "detailing", "warrior", "boot", "metallic", "claw", "hero's armament", "fantasy gaming item"],
     "description": "A fantastical, artistic representation of a metallic plate armor gauntlet featuring a design that resembles a claw or talon, often associated with warriors and heroes in fantasy settings."
   },
   {
@@ -15276,7 +15276,7 @@
   },
   {
     "path": "/icons/equipment/hand/gauntlet-tooled-leather-grey.webp",
-    "tags": ["equipment", "hand", "gauntlet", "tooled", "leather", "gray", "armor", "tooling", "texture", "medieval", "protective", "wrist guard", "warrior", "wearable", "battle-ready", "defensive gear", "knights of the round table", "medieval combat", "chain mail alternative", "tactile design", "gloves for warriors", "shielding hands", "heavy armor accessory", "adventurer's attire", "rubberized leather gauntlet", "fantasy gear item"],
+    "tags": ["equipment", "hand", "gauntlet", "tooled", "leather", "gray", "armor", "tooling", "texture", "medieval", "protective", "wrist guard", "warrior", "wearable", "battle-ready", "defensive gear", "knight", "round", "table", "medieval combat", "chain mail alternative", "tactile design", "gloves for warriors", "shielding hands", "heavy armor accessory", "adventurer's attire", "rubberized leather gauntlet", "fantasy gear item"],
     "description": "This icon represents a 'gauntlet tooled leather grey', which is an image of a protective glove or armor designed to cover and safeguard the wearer's hand and forearm. The gauntlet is characterized by its tough, gray leather material with intricate tooling that suggests a sturdy construction. Such gear would typically be used in medieval or fantasy settings where warriors and knights require additional defense against potential blows or attacks."
   },
   {
@@ -15316,7 +15316,7 @@
   },
   {
     "path": "/icons/equipment/hand/glove-cuffed-leather-pink.webp",
-    "tags": ["equipment", "hand", "glove", "cuffed", "leather", "pink", "strong hint"],
+    "tags": ["equipment", "hand", "glove", "cuffed", "leather", "pink"],
     "description": "This is an icon of a pink, leather-clad glove with a cuff."
   },
   {
@@ -15471,7 +15471,7 @@
   },
   {
     "path": "/icons/equipment/hand/glove-tooled-leather-red.webp",
-    "tags": ["equipment", "hand", "glove", "tooled", "leather", "red", "red glove", "tooling design", "leather material", "strong grip", "protective wear", "warrior accessory", "comfortable fit", "durable construction", "resistant to wear and tear", "suitable for battle", "high-quality craftsmanship"],
+    "tags": ["equipment", "hand", "glove", "tooled", "leather", "red", "red glove", "tooling design", "leather material", "strong grip", "protective wear", "warrior accessory", "comfortable fit", "durable construction", "resistant", "wear", "tear", "suitable for battle", "high-quality craftsmanship"],
     "description": "A well-crafted red glove with intricate tooling designs, made of durable leather material suitable for warriors or adventurers who require a strong grip and comfortable fit in battle."
   },
   {
@@ -15626,7 +15626,7 @@
   },
   {
     "path": "/icons/equipment/head/crown-thorns-gold.webp",
-    "tags": ["equipment", "head", "crown", "thorn", "gold", "religious symbol", "crucifix", "christian iconography", "painting of crown of thorns", "artwork with gold accents", "circular design", "stylized crown", "sacramental emblem", "golden crown on green background", "monogrammed religious art", "thorny crown imagery"],
+    "tags": ["equipment", "head", "crown", "thorn", "gold", "religious symbol", "crucifix", "christian iconography", "painting", "artwork with gold accents", "circular design", "stylized crown", "sacramental emblem", "golden", "green", "background", "monogrammed religious art", "thorny crown imagery"],
     "description": "This is an icon representing the 'Crown of Thorns', a symbol commonly associated with Christianity and the crucifixion of Jesus."
   },
   {
@@ -15691,7 +15691,7 @@
   },
   {
     "path": "/icons/equipment/head/goggles-leather-grey.webp",
-    "tags": ["equipment", "head", "goggle", "leather", "gray", "protective eyewear", "marine gear", "waterproof goggles", "outdoor accessory", "sports equipment", "swimming goggles", "dive goggles", "eye safety", "black frame with clear lenses", "swim and dive wear"],
+    "tags": ["equipment", "head", "goggle", "leather", "gray", "protective eyewear", "marine gear", "waterproof goggles", "outdoor accessory", "sports equipment", "swimming goggles", "dive goggles", "eye safety", "black", "frame", "clear", "lens", "swim and dive wear"],
     "description": "These are goggles designed for water sports or activities. They have a black frame, which is made of leather, and they feature clear lenses that provide protection to the eyes while swimming or diving."
   },
   {
@@ -15746,7 +15746,7 @@
   },
   {
     "path": "/icons/equipment/head/hat-belted-simple-brown.webp",
-    "tags": ["equipment", "head", "hat", "belted", "brown", "brown hat", "cowboy hat", "simple design", "belted hat", "hat with brim", "western wear", "outlaw accessory", "golden light glow", "cartoon representation of a cowboy hat"],
+    "tags": ["equipment", "head", "hat", "belted", "brown", "brown hat", "cowboy hat", "simple design", "belted hat", "hat with brim", "western wear", "outlaw accessory", "golden light glow", "cowboy"],
     "description": "A cartoon illustration of a brown belted hat."
   },
   {
@@ -15871,12 +15871,12 @@
   },
   {
     "path": "/icons/equipment/head/hat-tricorn-pirate-black.webp",
-    "tags": ["equipment", "head", "hat", "tricorn", "pirate", "black", "tricorn hat", "black color", "strong hint", "representative image", "symbolism"],
+    "tags": ["equipment", "head", "hat", "tricorn", "pirate", "black", "tricorn hat", "black color", "representative image", "symbolism"],
     "description": "This icon is a representation of a pirate's tricorn hat, colored black. It is often used in digital interfaces to symbolize the theme or element associated with piracy."
   },
   {
     "path": "/icons/equipment/head/headwrap-cloth-purple.webp",
-    "tags": ["equipment", "head", "headwrap", "cloth", "purple", "hoodie", "purple headscarf", "modest fashion", "religious attire", "veil on head", "wrapped around face", "draped over head", "clothing item for modesty", "purple clothing accessory", "clothing for covering the head", "scarf that covers the head", "modest female attire", "headwear for religious observance"],
+    "tags": ["equipment", "head", "headwrap", "cloth", "purple", "hoodie", "purple headscarf", "modest fashion", "religious attire", "veil on head", "wrapped around face", "draped over head", "clothing item for modesty", "purple clothing accessory", "clothing", "covering", "scarf", "cover", "modest female attire", "headwear for religious observance"],
     "description": "An icon depicting a purple headscarf wrapped around someone's face and draped over their head, often worn as a symbol of modesty or as part of religious observance."
   },
   {
@@ -16361,7 +16361,7 @@
   },
   {
     "path": "/icons/equipment/head/hood-cloth-blue-white.webp",
-    "tags": ["equipment", "head", "hood", "cloth", "blue", "white", "strong hint", "description", "keyword tags", "fantasy element", "dark fantasy", "mysterious character", "gaming icon"],
+    "tags": ["equipment", "head", "hood", "cloth", "blue", "white", "description", "fantasy element", "dark fantasy", "mysterious character", "gaming icon"],
     "description": "A digital artwork depicting a hooded character, possibly a gamer or fantasy-themed icon, with blue and white colors, suggesting a strong hint of mystery and intrigue."
   },
   {
@@ -16421,12 +16421,12 @@
   },
   {
     "path": "/icons/equipment/head/hood-cloth-white.webp",
-    "tags": ["equipment", "head", "hood", "cloth", "white", "character", "strong hint"],
+    "tags": ["equipment", "head", "hood", "cloth", "white", "character"],
     "description": "This image appears to depict a character from a fantasy or video game context, wearing a white hooded cloak which is often associated with anonymity or mystery."
   },
   {
     "path": "/icons/equipment/head/hood-cowl-mask-purple.webp",
-    "tags": ["equipment", "head", "hood", "cowl", "mask", "purple", "strong hint", "vibrant color", "mysterious", "evil", "villainous", "fictional"],
+    "tags": ["equipment", "head", "hood", "cowl", "mask", "purple", "vibrant color", "mysterious", "evil", "villainous", "fictional"],
     "description": "The icon named 'hood cowl mask purple' depicts a hooded figure in a vibrant purple color, symbolizing mystery, evil, or villainous characters."
   },
   {
@@ -16676,7 +16676,7 @@
   },
   {
     "path": "/icons/equipment/head/tech-pink.webp",
-    "tags": ["equipment", "head", "tech", "pink", "robot", "mech", "strong", "hint", "powerful"],
+    "tags": ["equipment", "head", "tech", "pink", "robot", "mech", "strong", "powerful"],
     "description": "An illustration of a robot with a pink and purple design, featuring futuristic elements and a strong appearance."
   },
   {
@@ -17461,7 +17461,7 @@
   },
   {
     "path": "/icons/equipment/neck/necklace-animal-scarab.webp",
-    "tags": ["equipment", "neck", "necklace", "animal", "scarab", "scarab beetle", "insect jewelry", "golden scarab necklace", "beadwork scarab", "scarab jewelry with chains", "egyptian scarab charm", "scarab pendant on a chain", "metal scarab brooch", "jewelry with scarab design", "ornamental beetle amulet", "traditional beetle amulet"],
+    "tags": ["equipment", "neck", "necklace", "animal", "scarab", "scarab beetle", "insect jewelry", "golden scarab necklace", "beadwork scarab", "scarab jewelry with chains", "egyptian scarab charm", "pendant", "chain", "metal scarab brooch", "jewelry with scarab design", "ornamental beetle amulet", "traditional beetle amulet"],
     "description": "An intricately crafted necklace featuring a gold-colored scarab beetle as the central element, with decorative chains and beads."
   },
   {
@@ -17631,7 +17631,7 @@
   },
   {
     "path": "/icons/equipment/neck/necklace-simple-carved-arrow.webp",
-    "tags": ["equipment", "neck", "necklace", "carved", "arrow", "arrow icon", "carved stone", "simple necklace", "arrow design on rock", "stone arrow pendant", "icon of arrow and heart", "rock symbol with arrow", "heart inside carved arrow", "stylized arrow on a stone", "digital art representation of arrow", "monochromatic icon of an arrow"],
+    "tags": ["equipment", "neck", "necklace", "carved", "arrow", "arrow icon", "carved stone", "simple necklace", "arrow design on rock", "stone arrow pendant", "heart", "rock symbol with arrow", "heart inside carved arrow", "stone", "monochromatic"],
     "description": "A stylized, monochromatic image of an arrow carved into a heart shape within a rock. This appears to be a symbolic or themed graphic, possibly representing love and direction, as suggested by the 'necklace simple carved arrow' title."
   },
   {
@@ -17696,7 +17696,7 @@
   },
   {
     "path": "/icons/equipment/neck/necklace-simple-leaves.webp",
-    "tags": ["equipment", "neck", "necklace", "leaves", "leafy necklace", "jewelry with green leaves", "ornate leaves on chain", "symbolic leaf pendant", "whimsical botanical accessory", "simple yet elegant design", "earthy and organic motif", "fashionable nature-inspired jewelry", "greenery adornment", "nature-themed necklace", "aesthetic of a forest or garden"],
+    "tags": ["equipment", "neck", "necklace", "leaves", "leafy necklace", "jewelry with green leaves", "ornate leaves on chain", "symbolic leaf pendant", "whimsical botanical accessory", "simple yet elegant design", "earthy and organic motif", "fashionable nature-inspired jewelry", "greenery adornment", "nature-themed necklace", "forest", "garden"],
     "description": "A necklace featuring simple leaf designs hanging from the chain. The leaves appear to be made of a yellowish material and have a slight three-dimensional effect."
   },
   {
@@ -18231,7 +18231,7 @@
   },
   {
     "path": "/icons/equipment/shield/round-wooden-boss-steel-brown.webp",
-    "tags": ["equipment", "shield", "round", "wooden", "boss", "steel", "brown", "hint", "strong", "description", "keyword"],
+    "tags": ["equipment", "shield", "round", "wooden", "boss", "steel", "brown", "strong", "description", "keyword"],
     "description": "A round wooden boss steel icon, suggesting a robust and durable item."
   },
   {
@@ -18266,7 +18266,7 @@
   },
   {
     "path": "/icons/equipment/shield/targe-boss-steel-brown.webp",
-    "tags": ["equipment", "shield", "targe", "boss", "steel", "brown", "target", "strong", "hint", "metal", "tactile", "mechanical", "geometric", "weathered"],
+    "tags": ["equipment", "shield", "targe", "boss", "steel", "brown", "target", "strong", "metal", "tactile", "mechanical", "geometric", "weathered"],
     "description": "A sturdy metallic target icon with a weathered brown finish, depicting a strong boss-like structure."
   },
   {
@@ -18281,12 +18281,12 @@
   },
   {
     "path": "/icons/equipment/shield/targe-wooden-boss-steel-brown.webp",
-    "tags": ["equipment", "shield", "targe", "wooden", "boss", "steel", "brown", "target", "strong", "hint", "description", "depict"],
+    "tags": ["equipment", "shield", "targe", "wooden", "boss", "steel", "brown", "target", "strong", "description", "depict"],
     "description": "A brown, wooden boss target with a central steel gemstone."
   },
   {
     "path": "/icons/equipment/shield/targe-wooden-boss-steel.webp",
-    "tags": ["equipment", "shield", "targe", "wooden", "boss", "steel", "strong", "hint"],
+    "tags": ["equipment", "shield", "targe", "wooden", "boss", "steel", "strong"],
     "description": "A targe is a shield, often used in historical battles to protect knights and warriors. This icon represents the wooden boss of such a shield, which is made from steel."
   },
   {
@@ -18701,7 +18701,7 @@
   },
   {
     "path": "/icons/equipment/waist/belt-armored-steel-purple.webp",
-    "tags": ["equipment", "waist", "belt", "armored", "steel", "purple", "strong", "hint", "wearable", "metal", "protective", "fashionable"],
+    "tags": ["equipment", "waist", "belt", "armored", "steel", "purple", "strong", "wearable", "metal", "protective", "fashionable"],
     "description": "A sturdy and elegant purple armored steel belt, designed for both protection and fashion."
   },
   {
@@ -18826,7 +18826,7 @@
   },
   {
     "path": "/icons/equipment/waist/belt-buckle-square-leather-brown.webp",
-    "tags": ["equipment", "waist", "belt", "buckle", "square", "leather", "brown", "belt buckle", "hint", "strong", "brief", "one-sentence description"],
+    "tags": ["equipment", "waist", "belt", "buckle", "square", "leather", "brown", "belt buckle", "strong", "brief"],
     "description": "This is an icon named 'belt buckle square leather brown'. It depicts a gold belt buckle on a dark background."
   },
   {
@@ -18841,7 +18841,7 @@
   },
   {
     "path": "/icons/equipment/waist/belt-buckle-square-red.webp",
-    "tags": ["equipment", "waist", "belt", "buckle", "square", "red", "strong hint", "symbolism", "vintage style", "fantasy element", "metalwork", "artistic depiction"],
+    "tags": ["equipment", "waist", "belt", "buckle", "square", "red", "symbolism", "vintage style", "fantasy element", "metalwork", "artistic depiction"],
     "description": "A square buckle featuring a vintage design with a red background, possibly representing strength or valor."
   },
   {
@@ -18886,7 +18886,7 @@
   },
   {
     "path": "/icons/equipment/waist/belt-leather-steel-tan.webp",
-    "tags": ["equipment", "waist", "belt", "leather", "steel", "tan", "strong", "hint", "description", "keyword"],
+    "tags": ["equipment", "waist", "belt", "leather", "steel", "tan", "strong", "description", "keyword"],
     "description": "The image is a vector icon of a belt made from leather and steel with a tan color, depicting an item commonly associated with fashion or personal accessories."
   },
   {
@@ -19381,7 +19381,7 @@
   },
   {
     "path": "/icons/equipment/wrist/wrap-wide-cloth-pink.webp",
-    "tags": ["equipment", "wrist", "wrap", "wide", "cloth", "pink", "red", "curved", "wrapped", "tube", "strong", "hint", "stitching"],
+    "tags": ["equipment", "wrist", "wrap", "wide", "cloth", "pink", "red", "curved", "wrapped", "tube", "strong", "stitching"],
     "description": "A red cloth icon, wrapped like a tube with stitching in the middle."
   },
   {
@@ -19681,7 +19681,7 @@
   },
   {
     "path": "/icons/magic/air/wind-stream-blue-gray.webp",
-    "tags": ["magic", "air", "wind", "stream", "blue", "gray", "hint", "swirl", "abstract", "airy", "flowing", "computer graphic"],
+    "tags": ["magic", "air", "wind", "stream", "blue", "gray", "swirl", "abstract", "airy", "flowing", "computer graphic"],
     "description": "A blue abstract icon representing a wind stream or swirl, suggesting swift and airy movement."
   },
   {
@@ -19921,7 +19921,7 @@
   },
   {
     "path": "/icons/magic/control/control-influence-rally-purple.webp",
-    "tags": ["magic", "control", "influence", "rally", "purple", "warrior", "spartan helmet", "gladiator", "ancient battle gear", "heraldry symbol", "icon of strength", "purple color scheme", "logo with a sword through it", "glowing purple outline", "symbolic emblem", "historical military icon"],
+    "tags": ["magic", "control", "influence", "rally", "purple", "warrior", "spartan helmet", "gladiator", "ancient battle gear", "heraldry symbol", "icon of strength", "purple color scheme", "sword", "through", "glowing purple outline", "symbolic emblem", "historical military icon"],
     "description": "The image depicts a purple, stylized depiction of an ancient warrior's helmet, suggesting themes of control, influence, and battle rally. The use of the Spartan helmet as a symbol might indicate a theme related to historical military tactics or leadership."
   },
   {
@@ -19976,7 +19976,7 @@
   },
   {
     "path": "/icons/magic/control/debuff-chains-ropes-net-white.webp",
-    "tags": ["magic", "control", "debuff", "chain", "rope", "net", "white", "strong", "hint", "microscopic"],
+    "tags": ["magic", "control", "debuff", "chain", "rope", "net", "white", "strong", "microscopic"],
     "description": "The icon represents a chain, possibly associated with a debuff or negative effect in a gaming context. It is designed to suggest the fragility or vulnerability of something within the game."
   },
   {
@@ -20426,7 +20426,7 @@
   },
   {
     "path": "/icons/magic/death/projectile-skull-flaming-green.webp",
-    "tags": ["magic", "death", "projectile", "skull", "flaming", "green", "flaming green", "strong hint", "descriptive keywords"],
+    "tags": ["magic", "death", "projectile", "skull", "flaming", "green", "flaming green"],
     "description": "The icon features a green, flame-themed skull that suggests the use of an item or power with fire or explosion properties."
   },
   {
@@ -20861,7 +20861,7 @@
   },
   {
     "path": "/icons/magic/earth/barrier-lava-stone-orange.webp",
-    "tags": ["magic", "earth", "barrier", "lava", "stone", "orange", "strong hint", "volcano", "texture", "heat", "energy", "geological", "red hot", "inferno"],
+    "tags": ["magic", "earth", "barrier", "lava", "stone", "orange", "volcano", "texture", "heat", "energy", "geological", "red hot", "inferno"],
     "description": "The 'barrier lava stone orange' icon likely depicts a molten, fiery substance that is both barrier-like and emitting heat or energy."
   },
   {
@@ -21061,7 +21061,7 @@
   },
   {
     "path": "/icons/magic/earth/projectile-stone-boulder-orange.webp",
-    "tags": ["magic", "earth", "projectile", "stone", "boulder", "orange", "strong", "hint"],
+    "tags": ["magic", "earth", "projectile", "stone", "boulder", "orange", "strong"],
     "description": "An icon depicting a vivid orange projectile resembling a stone boulder."
   },
   {
@@ -21426,7 +21426,7 @@
   },
   {
     "path": "/icons/magic/fire/explosion-fireball-medium-red-orange.webp",
-    "tags": ["magic", "fire", "explosion", "fireball", "medium", "red", "orange", "strong", "hint"],
+    "tags": ["magic", "fire", "explosion", "fireball", "medium", "red", "orange", "strong"],
     "description": "This is a depiction of an explosion in the form of a fireball with medium intensity and predominantly red and orange colors."
   },
   {
@@ -21496,7 +21496,7 @@
   },
   {
     "path": "/icons/magic/fire/flame-burning-campfire-smoke.webp",
-    "tags": ["magic", "fire", "flame", "burning", "campfire", "smoke", "warmth", "outdoor activity", "cozy atmosphere", "light in the dark", "icon of a fire", "illustration of a camping scene", "glowing embers", "symbol of warmth and shelter"],
+    "tags": ["magic", "fire", "flame", "burning", "campfire", "smoke", "warmth", "outdoor activity", "cozy atmosphere", "light in the dark", "icon of a fire", "camping", "scene", "glowing embers", "shelter"],
     "description": "This icon features a flaming campfire, typically associated with comfort and warmth during nights spent outdoors."
   },
   {
@@ -21561,7 +21561,7 @@
   },
   {
     "path": "/icons/magic/fire/flame-burning-hand-white.webp",
-    "tags": ["magic", "fire", "flame", "burning", "hand", "white", "strong hint", "mysterious", "artistic", "elemental"],
+    "tags": ["magic", "fire", "flame", "burning", "hand", "white", "mysterious", "artistic", "elemental"],
     "description": "The icon depicts a white hand holding a flame that is burning intensely, symbolizing the power of fire or the purifying nature of flames."
   },
   {
@@ -21646,7 +21646,7 @@
   },
   {
     "path": "/icons/magic/fire/projectile-arrow-fire-yellow-orange.webp",
-    "tags": ["magic", "fire", "projectile", "arrow", "yellow", "orange", "strong hint"],
+    "tags": ["magic", "fire", "projectile", "arrow", "yellow", "orange"],
     "description": "An icon representing a fire arrow, with yellow and orange hues."
   },
   {
@@ -21691,7 +21691,7 @@
   },
   {
     "path": "/icons/magic/fire/projectile-fireball-green.webp",
-    "tags": ["magic", "fire", "projectile", "fireball", "green", "hint", "description", "strong hint", "depict", "projectile fireball", "fireball green"],
+    "tags": ["magic", "fire", "projectile", "fireball", "green", "description", "depict", "projectile fireball", "fireball green"],
     "description": "An icon depicting a bright green fireball that suggests projectile motion."
   },
   {
@@ -21736,7 +21736,7 @@
   },
   {
     "path": "/icons/magic/fire/projectile-fireball-smoke-large-green.webp",
-    "tags": ["magic", "fire", "projectile", "fireball", "smoke", "large", "green", "hint", "powerful", "explosion", "energy", "light", "glowing"],
+    "tags": ["magic", "fire", "projectile", "fireball", "smoke", "large", "green", "powerful", "explosion", "energy", "light", "glowing"],
     "description": "An icon depicting a large green fireball with smoke effect, representing a powerful explosive projectile."
   },
   {
@@ -21861,7 +21861,7 @@
   },
   {
     "path": "/icons/magic/fire/projectile-meteor-salvo-strong-red.webp",
-    "tags": ["magic", "fire", "projectile", "meteor", "salvo", "strong", "red", "meteor shower", "space projectile", "cosmic fireworks", "red space explosion", "weapon launch", "stellar fury", "extraterrestrial impact", "intergalactic firepower", "red streaks in the night sky", "energy burst", "deep space artillery"],
+    "tags": ["magic", "fire", "projectile", "meteor", "salvo", "strong", "red", "meteor shower", "space projectile", "cosmic fireworks", "red space explosion", "weapon launch", "stellar fury", "extraterrestrial impact", "intergalactic firepower", "streak", "night", "sky", "energy burst", "deep space artillery"],
     "description": "An artistic representation of a meteor shower or a volley of cosmic projectiles against a dark background, emitting a strong red glow."
   },
   {
@@ -22031,7 +22031,7 @@
   },
   {
     "path": "/icons/magic/life/heart-cross-green.webp",
-    "tags": ["magic", "life", "heart", "cross", "green", "heart symbol", "plus sign", "religious iconography", "symbol of love and faith", "christian symbolism", "christian emblem", "symbol of hope and healing"],
+    "tags": ["magic", "life", "heart", "cross", "green", "heart symbol", "plus sign", "religious iconography", "love", "faith", "christian symbolism", "christian emblem", "hope", "healing"],
     "description": "This image represents a heart, crossed by the 'plus' or 'equal to' sign (='), which is a common Christian symbol representing the union between God and man through Jesus Christ."
   },
   {
@@ -22126,7 +22126,7 @@
   },
   {
     "path": "/icons/magic/light/beam-layered-teal.webp",
-    "tags": ["magic", "light", "beam", "layered", "teal", "light beam", "energy rays", "laser light", "spotlight effect", "focus beam", "starburst design", "radiant glow", "abstract illumination", "futuristic symbolism", "graphic element for tech theme", "vivid star-like patterns"],
+    "tags": ["magic", "light", "beam", "layered", "teal", "light beam", "energy rays", "laser light", "spotlight effect", "focus beam", "starburst design", "radiant glow", "abstract illumination", "futuristic symbolism", "element", "tech", "theme", "vivid star-like patterns"],
     "description": "The image depicts a striking and vibrant abstract representation of a light beam with a layered design, radiating in shades of teal. It could be used as an icon or graphic element to represent technological themes, energy, laser effects, or spotlighting."
   },
   {
@@ -22166,7 +22166,7 @@
   },
   {
     "path": "/icons/magic/light/beam-rays-magenta-small.webp",
-    "tags": ["magic", "light", "beam", "ray", "magenta", "small", "strong", "hint", "space", "cosmic", "energy", "radiant", "dark background", "vibrant"],
+    "tags": ["magic", "light", "beam", "ray", "magenta", "small", "strong", "space", "cosmic", "energy", "radiant", "dark background", "vibrant"],
     "description": "The icon 'beam rays magenta small' depicts a luminous magenta beam emanating from the center, suggesting it could be a cosmic or space-related theme with energetic properties."
   },
   {
@@ -22236,7 +22236,7 @@
   },
   {
     "path": "/icons/magic/light/beam-rays-yellow-blue-large.webp",
-    "tags": ["magic", "light", "beam", "ray", "yellow", "blue", "large", "strong hint", "descriptive keywords"],
+    "tags": ["magic", "light", "beam", "ray", "yellow", "blue", "large"],
     "description": "This icon is labeled 'beam rays yellow blue large' which suggests a depiction of bright and colorful energy or light rays that are prominent in size."
   },
   {
@@ -22646,7 +22646,7 @@
   },
   {
     "path": "/icons/magic/light/torch-fire-hand-orange.webp",
-    "tags": ["magic", "light", "torch", "fire", "hand", "orange", "hint", "strong", "descriptive"],
+    "tags": ["magic", "light", "torch", "fire", "hand", "orange", "strong", "descriptive"],
     "description": "A stylized hand holding a torch with flames to represent fire or a light source."
   },
   {
@@ -22906,7 +22906,7 @@
   },
   {
     "path": "/icons/magic/lightning/bolts-forked-large-blue-yellow.webp",
-    "tags": ["magic", "lightning", "bolt", "forked", "large", "blue", "yellow", "lightning bolt", "electric energy", "striking power", "weather symbol", "thunderbolt", "energetic visual", "natural phenomenon", "powerful force", "iconographic image", "vivid blue and yellow flashes"],
+    "tags": ["magic", "lightning", "bolt", "forked", "large", "blue", "yellow", "lightning bolt", "electric energy", "striking power", "weather symbol", "thunderbolt", "energetic visual", "natural phenomenon", "powerful force", "iconographic image", "vivid", "flash"],
     "description": "This icon depicts a dramatic scene of a lightning bolt with forked bolts, symbolizing strong electric energy or power."
   },
   {
@@ -23341,7 +23341,7 @@
   },
   {
     "path": "/icons/magic/nature/root-vine-barrier-wall-brown.webp",
-    "tags": ["magic", "nature", "root", "vine", "barrier", "wall", "brown", "root vine", "strong hint", "brief description"],
+    "tags": ["magic", "nature", "root", "vine", "barrier", "wall", "brown", "root vine"],
     "description": "The icon depicts a stylized root vine barrier wall in a brown color, which is typically used to represent obstacles or boundaries."
   },
   {
@@ -23441,7 +23441,7 @@
   },
   {
     "path": "/icons/magic/nature/root-vines-entwined-leaves.webp",
-    "tags": ["magic", "nature", "root", "vine", "entwined", "leaves", "tree roots", "natural connection", "crossed branches", "entangled vines", "botany illustration", "ecological interdependence", "green leaves on brown tree bark", "nature artwork", "symbolic tree roots", "arbor symbolism", "vegetative bonding"],
+    "tags": ["magic", "nature", "root", "vine", "entwined", "leaves", "tree roots", "natural connection", "crossed branches", "entangled vines", "botany illustration", "ecological interdependence", "green", "brown", "tree", "bark", "nature artwork", "symbolic tree roots", "arbor symbolism", "vegetative bonding"],
     "description": "A stylized depiction of two branches crossing over each other, signifying connection and interrelatedness in nature."
   },
   {
@@ -23546,7 +23546,7 @@
   },
   {
     "path": "/icons/magic/nature/tree-spirit-black.webp",
-    "tags": ["magic", "nature", "tree", "spirit", "black", "glowing, supernatural, tree guardian, dark fantasy, otherworldly, shadow, monster, mystical creature, elemental spirit, magical forest, mysterious entity"],
+    "tags": ["magic", "nature", "tree", "spirit", "black", "glowing", "supernatural", "guardian", "dark", "fantasy", "otherworldly", "shadow", "monster", "mystical", "creature", "elemental", "magical", "forest", "mysterious", "entity"],
     "description": "This image depicts a stylized tree spirit or monster, emanating an ethereal glow that suggests it is from the supernatural realm. The character has a menacing presence and may represent a guardian or protector of a mystical forest."
   },
   {
@@ -23691,7 +23691,7 @@
   },
   {
     "path": "/icons/magic/perception/eye-ringed-glow-angry-large-red.webp",
-    "tags": ["magic", "perception", "eye", "ringed", "glow", "angry", "large", "red", "glowing", "ringed eye", "strong hint", "flame", "detailed", "artistic"],
+    "tags": ["magic", "perception", "eye", "ringed", "glow", "angry", "large", "red", "glowing", "ringed eye", "flame", "detailed", "artistic"],
     "description": "The image depicts an icon that features a glowing, ringed eye with an intense red color, possibly symbolizing anger or power."
   },
   {
@@ -24286,7 +24286,7 @@
   },
   {
     "path": "/icons/magic/unholy/orb-swirling-teal.webp",
-    "tags": ["magic", "unholy", "orb", "swirling", "teal", "swirl", "strong hint"],
+    "tags": ["magic", "unholy", "orb", "swirling", "teal", "swirl"],
     "description": "This image depicts an orb swirling in teal, suggesting a dynamic and possibly mystical or magical element."
   },
   {
@@ -24366,7 +24366,7 @@
   },
   {
     "path": "/icons/magic/unholy/silhouette-robe-evil-power.webp",
-    "tags": ["magic", "unholy", "silhouette", "robe", "evil", "power", "hint", "mystery", "villain", "threatening", "dark", "shadowy", "ominous"],
+    "tags": ["magic", "unholy", "silhouette", "robe", "evil", "power", "mystery", "villain", "threatening", "dark", "shadowy", "ominous"],
     "description": "A mysterious silhouette of a hooded figure, evoking themes of evil power and intrigue."
   },
   {
@@ -24386,7 +24386,7 @@
   },
   {
     "path": "/icons/magic/unholy/strike-beam-blood-large-red-purple.webp",
-    "tags": ["magic", "unholy", "strike", "beam", "blood", "large", "red", "purple", "firework", "explosion", "strong hint", "energetic", "radiant", "dynamic", "vibrant"],
+    "tags": ["magic", "unholy", "strike", "beam", "blood", "large", "red", "purple", "firework", "explosion", "energetic", "radiant", "dynamic", "vibrant"],
     "description": "An icon that depicts a large, vibrant explosion with red and purple hues."
   },
   {
@@ -24471,7 +24471,7 @@
   },
   {
     "path": "/icons/magic/water/barrier-ice-crystal-wall-faceted-light.webp",
-    "tags": ["magic", "water", "barrier", "ice", "crystal", "wall", "faceted", "light", "barrier ice crystal wall faceted light"],
+    "tags": ["magic", "water", "barrier", "ice", "crystal", "wall", "faceted", "light"],
     "description": "The image depicts a stylized, translucent ice or crystal formation that has a faceted design with multiple faces and edges, giving it a light appearance."
   },
   {
@@ -24596,7 +24596,7 @@
   },
   {
     "path": "/icons/magic/water/projectile-arrow-cold-fire-blue.webp",
-    "tags": ["magic", "water", "projectile", "arrow", "cold", "fire", "blue", "ice", "lightning", "snow", "speed", "energy", "cool", "flame", "sharp", "ice cold fire blue arrow lightning snow projectile speed energy cool flame sharp ice cold fire blue"],
+    "tags": ["magic", "water", "projectile", "arrow", "cold", "fire", "blue", "ice", "lightning", "snow", "speed", "energy", "cool", "flame", "sharp"],
     "description": "An animated icon depicting a blue arrow-shaped blade with a cold fire effect, as if it's freezing the air around it."
   },
   {
@@ -24836,7 +24836,7 @@
   },
   {
     "path": "/icons/magic/water/water-drop-swirl-blue.webp",
-    "tags": ["magic", "water", "drop", "swirl", "blue", "strong", "hint", "artistic"],
+    "tags": ["magic", "water", "drop", "swirl", "blue", "strong", "artistic"],
     "description": "This is a digital artwork representing a water drop swirling in a blue, ornate pattern. The design conveys a sense of tranquility and the fluidity of nature."
   },
   {
@@ -24966,12 +24966,12 @@
   },
   {
     "path": "/icons/skills/melee/hand-grip-staff-teal.webp",
-    "tags": ["skill", "melee", "hand", "grip", "staff", "teal", "hand grip", "grip staff", "strong", "hint", "symbol"],
+    "tags": ["skill", "melee", "hand", "grip", "staff", "teal", "hand grip", "grip staff", "strong", "symbol"],
     "description": "A hand gripping a teal-colored staff, symbolizing power and control."
   },
   {
     "path": "/icons/skills/melee/hand-grip-staff-yellow-brown.webp",
-    "tags": ["skill", "melee", "hand", "grip", "staff", "yellow", "brown", "stick", "strong", "hint"],
+    "tags": ["skill", "melee", "hand", "grip", "staff", "yellow", "brown", "stick", "strong"],
     "description": "Hand gripping a wooden stick with strength."
   },
   {
@@ -25011,7 +25011,7 @@
   },
   {
     "path": "/icons/skills/melee/shield-block-bash-blue.webp",
-    "tags": ["skill", "melee", "shield", "block", "bash", "blue", "strong", "hint", "descriptive", "keyword"],
+    "tags": ["skill", "melee", "shield", "block", "bash", "blue", "strong", "descriptive", "keyword"],
     "description": "The image depicts a shield with the word 'block' on it, suggesting an action of defense against an attack or a tool used in gameplay."
   },
   {
@@ -25266,7 +25266,7 @@
   },
   {
     "path": "/icons/skills/melee/strike-slashes-red.webp",
-    "tags": ["skill", "melee", "strike", "slash", "red", "strong", "hint"],
+    "tags": ["skill", "melee", "strike", "slash", "red", "strong"],
     "description": "The icon depicts a dynamic, powerful red strike slashing through the air."
   },
   {
@@ -25451,7 +25451,7 @@
   },
   {
     "path": "/icons/skills/melee/weapons-crossed-poleaxes-white.webp",
-    "tags": ["skill", "melee", "weapon", "crossed", "poleaxes", "white", "poleaxe", "strong", "hint"],
+    "tags": ["skill", "melee", "weapon", "crossed", "poleaxes", "white", "poleaxe", "strong"],
     "description": "A crossed poleaxes icon, depicting weapons of medieval warfare."
   },
   {
@@ -25871,7 +25871,7 @@
   },
   {
     "path": "/icons/skills/ranged/target-bullseye-arrow-blue.webp",
-    "tags": ["skill", "ranged", "target", "bullseye", "arrow", "blue", "hint", "description", "object", "symbol", "element"],
+    "tags": ["skill", "ranged", "target", "bullseye", "arrow", "blue", "description", "object", "symbol", "element"],
     "description": "This is an icon named 'target bullseye arrow blue'. Use the name as a strong hint for what it depicts."
   },
   {
@@ -25881,7 +25881,7 @@
   },
   {
     "path": "/icons/skills/ranged/target-bullseye-arrow-green.webp",
-    "tags": ["skill", "ranged", "target", "bullseye", "arrow", "green", "symbol", "hint", "aim", "precision", "success", "accurate"],
+    "tags": ["skill", "ranged", "target", "bullseye", "arrow", "green", "symbol", "aim", "precision", "success", "accurate"],
     "description": "An icon depicting a target bullseye surrounded by an arrow that has struck the center."
   },
   {
@@ -26026,7 +26026,7 @@
   },
   {
     "path": "/icons/skills/targeting/crosshair-mark-rough-pink.webp",
-    "tags": ["skill", "targeting", "crosshair", "mark", "rough", "pink", "rough texture", "strong hint", "vivid color", "abstract pattern", "bold symbol"],
+    "tags": ["skill", "targeting", "crosshair", "mark", "rough", "pink", "rough texture", "vivid color", "abstract pattern", "bold symbol"],
     "description": "This is an icon of a rough and bold crosshair with a mark at its center, presented in a striking shade of pink against a darker background."
   },
   {
@@ -26186,7 +26186,7 @@
   },
   {
     "path": "/icons/skills/trades/construction-mason-bricklayer-red.webp",
-    "tags": ["skill", "trade", "construction", "mason", "bricklayer", "red", "masonry", "bricklaying", "strong", "hint", "skilled", "work"],
+    "tags": ["skill", "trade", "construction", "mason", "bricklayer", "red", "masonry", "bricklaying", "strong", "skilled", "work"],
     "description": "A symbol representing the profession of a bricklayer or construction worker, typically showing tools and materials associated with building work."
   },
   {
@@ -26326,7 +26326,7 @@
   },
   {
     "path": "/icons/skills/trades/security-lockpicking-chest-blue.webp",
-    "tags": ["skill", "trade", "security", "lockpicking", "chest", "blue", "treasure", "lock picking", "symbol", "hint"],
+    "tags": ["skill", "trade", "security", "lockpicking", "chest", "blue", "treasure", "lock picking", "symbol"],
     "description": "The icon depicts a treasure chest with a lock pick, symbolizing the concept of security or lock picking."
   },
   {
@@ -26451,7 +26451,7 @@
   },
   {
     "path": "/icons/skills/wounds/blood-drip-droplet-red.webp",
-    "tags": ["skill", "wound", "blood", "drip", "droplet", "red", "drop", "hint", "strong", "gory", "violent", "horror"],
+    "tags": ["skill", "wound", "blood", "drip", "droplet", "red", "drop", "strong", "gory", "violent", "horror"],
     "description": "Icon depicting red blood drip drop on a dark background, representing something violent or horrific."
   },
   {
@@ -26556,7 +26556,7 @@
   },
   {
     "path": "/icons/sundries/books/book-black-grey.webp",
-    "tags": ["sundries", "book", "black", "gray", "strong hint", "description", "object", "computer icon", "symbol", "electronic device", "user interface element", "monochrome", "digital illustration", "communication tool"],
+    "tags": ["sundries", "book", "black", "gray", "description", "object", "computer icon", "symbol", "electronic device", "user interface element", "monochrome", "digital illustration", "communication tool"],
     "description": "This is an icon named 'book black grey'. Use the name as a strong hint for what it depicts. Give a brief one-sentence description and 10-15 descriptive keyword tags."
   },
   {
@@ -26576,7 +26576,7 @@
   },
   {
     "path": "/icons/sundries/books/book-embossed-clasp-gold-brown.webp",
-    "tags": ["sundries", "book", "embossed", "clasp", "gold", "brown", "gold clasp", "embossed book", "symbol of power or authority", "magical runes on cover", "treasure chest", "elder scrolls theme", "intricate design", "luxury item", "ancient artifact", "mysterious emblem", "rich detailing"],
+    "tags": ["sundries", "book", "embossed", "clasp", "gold", "brown", "gold clasp", "embossed book", "power", "authority", "magical runes on cover", "treasure chest", "elder scrolls theme", "intricate design", "luxury item", "ancient artifact", "mysterious emblem", "rich detailing"],
     "description": "Embossed golden clasp on a book, suggesting a high-quality or valuable edition of the work."
   },
   {
@@ -26621,12 +26621,12 @@
   },
   {
     "path": "/icons/sundries/books/book-embossed-steel-brown.webp",
-    "tags": ["sundries", "book", "embossed", "steel", "brown", "strong", "hint", "vintage", "metallic", "treasure", "mystical"],
+    "tags": ["sundries", "book", "embossed", "steel", "brown", "strong", "vintage", "metallic", "treasure", "mystical"],
     "description": "The image displays a book icon with a brown cover and metal embellishments, suggesting a strong, sturdy or treasured item."
   },
   {
     "path": "/icons/sundries/books/book-embossed-steel-green.webp",
-    "tags": ["sundries", "book", "embossed", "steel", "green", "strong hint", "description", "keyword"],
+    "tags": ["sundries", "book", "embossed", "steel", "green", "description", "keyword"],
     "description": "An embossed steel green book icon."
   },
   {
@@ -26636,8 +26636,8 @@
   },
   {
     "path": "/icons/sundries/books/book-eye-purple.webp",
-    "tags": ["sundries", "book", "eye", "purple", "pokémon", "card", "mysterious", "game", "legendary", "rare"],
-    "description": "The 'book eye purple' icon is a graphic representation of a legendary card in the Pokémon Trading Card Game, known for its mystique and rarity."
+    "tags": ["sundries", "book", "eye", "purple", "pokãƒâ©mon", "card", "mysterious", "game", "legendary", "rare"],
+    "description": "The 'book eye purple' icon is a graphic representation of a legendary card in the PokÃƒÂ©mon Trading Card Game, known for its mystique and rarity."
   },
   {
     "path": "/icons/sundries/books/book-eye-red.webp",
@@ -26671,7 +26671,7 @@
   },
   {
     "path": "/icons/sundries/books/book-notes-ragged-green.webp",
-    "tags": ["sundries", "book", "note", "ragged", "green", "notebook", "journal", "vintage book", "handwritten note", "ruffled paper", "old paper", "antique book", "book with a torn cover", "message on a page", "paperback book", "notepad with torn pages"],
+    "tags": ["sundries", "book", "note", "ragged", "green", "notebook", "journal", "vintage book", "handwritten note", "ruffled paper", "old paper", "antique book", "torn", "cover", "message on a page", "paperback book", "notepad with torn pages"],
     "description": "An illustration of an old, ragged green notebook or journal with a handwritten note on a page. It has a distressed and aged appearance, suggesting it's been used for some time."
   },
   {
@@ -26876,7 +26876,7 @@
   },
   {
     "path": "/icons/sundries/books/book-symbol-triangle-silver-blue.webp",
-    "tags": ["sundries", "book", "symbol", "triangle", "silver", "blue", "strong hint", "mysterious", "adventure", "magic", "unknown"],
+    "tags": ["sundries", "book", "symbol", "triangle", "silver", "blue", "mysterious", "adventure", "magic", "unknown"],
     "description": "A mysterious blue book symbol that appears to be a combination of a triangle and an arrow, suggesting it might be related to adventure or magic."
   },
   {
@@ -26901,7 +26901,7 @@
   },
   {
     "path": "/icons/sundries/books/book-tooled-blue-yellow.webp",
-    "tags": ["sundries", "book", "tooled", "blue", "yellow", "tooling", "strong hint", "description", "keyword tags"],
+    "tags": ["sundries", "book", "tooled", "blue", "yellow", "tooling", "description"],
     "description": "A book with blue tooling and a yellow center, representing something valuable or of importance."
   },
   {
@@ -27091,7 +27091,7 @@
   },
   {
     "path": "/icons/sundries/documents/document-sealed-beige-red.webp",
-    "tags": ["sundries", "document", "sealed", "beige", "red", "seal", "strong hint", "mystery", "secret message", "code", "scroll", "intrigue"],
+    "tags": ["sundries", "document", "sealed", "beige", "red", "seal", "mystery", "secret message", "code", "scroll", "intrigue"],
     "description": "The 'document sealed beige red' icon is a representation of an ancient or mysterious document, possibly containing a secret message or code. The beige and red colors add to the vintage feel, while the seal indicates it has been signed off on as important or authoritative."
   },
   {
@@ -27106,7 +27106,7 @@
   },
   {
     "path": "/icons/sundries/documents/document-sealed-red-white.webp",
-    "tags": ["sundries", "document", "sealed", "red", "white", "red_seal", "white_background", "strong_hint"],
+    "tags": ["sundries", "document", "sealed", "red", "white", "red_seal", "white_background"],
     "description": "This is an icon named 'document sealed red white'. Use the name as a strong hint for what it depicts."
   },
   {
@@ -27126,7 +27126,7 @@
   },
   {
     "path": "/icons/sundries/documents/document-sealed-white-red.webp",
-    "tags": ["sundries", "document", "sealed", "white", "red", "strong hint", "descriptive keywords"],
+    "tags": ["sundries", "document", "sealed", "white", "red"],
     "description": "This is a digital icon that represents a physical document with a seal, using the colors white and red to signify authenticity or importance."
   },
   {
@@ -27216,7 +27216,7 @@
   },
   {
     "path": "/icons/sundries/documents/envelope-sealed-red-white.webp",
-    "tags": ["sundries", "document", "envelope", "sealed", "red", "white", "letter", "red envelope", "email", "envelope icon", "white seal", "white border", "red and white color scheme", "closed envelope"],
+    "tags": ["sundries", "document", "envelope", "sealed", "red", "white", "letter", "red envelope", "email", "envelope icon", "white seal", "white border", "color", "closed envelope"],
     "description": "This is an icon of a red and white sealed envelope, suggesting it could be related to sending or receiving mail within the context of a game or digital application."
   },
   {
@@ -27231,7 +27231,7 @@
   },
   {
     "path": "/icons/sundries/documents/notebook-spiral-red.webp",
-    "tags": ["sundries", "document", "notebook", "spiral", "red", "spiral notebook", "red book cover", "iconographic representation", "digital design", "stylized graphic", "electronic device", "book metaphor", "graphical user interface", "computer icon", "symbol for notes or journal", "virtual application"],
+    "tags": ["sundries", "document", "notebook", "spiral", "red", "spiral notebook", "red book cover", "iconographic representation", "digital design", "stylized graphic", "electronic device", "book metaphor", "graphical user interface", "computer icon", "note", "journal", "virtual application"],
     "description": "This is an icon that represents a spiral notebook, with a red book cover, possibly indicating an electronic device or software related to note-taking, journaling, or organizing information in a digital format."
   },
   {
@@ -27466,7 +27466,7 @@
   },
   {
     "path": "/icons/sundries/gaming/chess-pawn-white-pink.webp",
-    "tags": ["sundries", "gaming", "chess", "pawn", "white", "pink", "strong hint", "strategy game", "game piece", "board game", "computer game", "video game", "virtual gaming"],
+    "tags": ["sundries", "gaming", "chess", "pawn", "white", "pink", "strategy game", "game piece", "board game", "computer game", "video game", "virtual gaming"],
     "description": "A chess pawn in the 'pawn white pink' icon, symbolizing a strong hint for strategic gaming and a virtual gaming experience."
   },
   {
@@ -27537,7 +27537,7 @@
   {
     "path": "/icons/sundries/gaming/playing-cards-grey.webp",
     "tags": ["sundries", "gaming", "playing", "card", "gray", "playing card", "grey color", "geometric design", "pokemon", "monster card", "magic the gathering", "card art", "fantasy", "game accessory"],
-    "description": "This is an icon depicting a grey playing card. It features a geometric design on its face, possibly symbolizing a monster from the Pokémon trading card game or a creature from the Magic: The Gathering fantasy game."
+    "description": "This is an icon depicting a grey playing card. It features a geometric design on its face, possibly symbolizing a monster from the PokÃƒÂ©mon trading card game or a creature from the Magic: The Gathering fantasy game."
   },
   {
     "path": "/icons/sundries/gaming/playing-cards.webp",
@@ -27556,7 +27556,7 @@
   },
   {
     "path": "/icons/sundries/lights/candle-lit-red.webp",
-    "tags": ["sundries", "light", "candle", "lit", "red", "red lighted candle", "flame", "dark ambiance", "symbol of hope", "icon of illumination", "vivid flame burning brightly", "red lit symbol", "glowing candle in dark environment", "light source", "illuminating darkness"],
+    "tags": ["sundries", "light", "candle", "lit", "red", "red lighted candle", "flame", "dark ambiance", "symbol of hope", "icon of illumination", "vivid flame burning brightly", "red lit symbol", "glowing", "dark", "environment", "light source", "illuminating darkness"],
     "description": "Red lit candle, a symbol of hope and illumination against a dark backdrop."
   },
   {
@@ -27576,7 +27576,7 @@
   },
   {
     "path": "/icons/sundries/lights/candle-unlit-grey.webp",
-    "tags": ["sundries", "light", "candle", "unlit", "gray", "melting", "wax", "melted", "hint", "description", "name"],
+    "tags": ["sundries", "light", "candle", "unlit", "gray", "melting", "wax", "melted", "description", "name"],
     "description": "An unlit grey candle with melted wax."
   },
   {
@@ -27591,7 +27591,7 @@
   },
   {
     "path": "/icons/sundries/lights/candle-unlit-white.webp",
-    "tags": ["sundries", "light", "candle", "unlit", "white", "strong hint"],
+    "tags": ["sundries", "light", "candle", "unlit", "white"],
     "description": "A simple, unlit candle with a white icon representation."
   },
   {
@@ -27781,7 +27781,7 @@
   },
   {
     "path": "/icons/sundries/misc/key-ring-long-silver.webp",
-    "tags": ["sundries", "misc", "key", "ring", "long", "silver", "hint", "symbol", "accessory", "metal", "lock", "decorative", "object"],
+    "tags": ["sundries", "misc", "key", "ring", "long", "silver", "symbol", "accessory", "metal", "lock", "decorative", "object"],
     "description": "A key ring featuring a silver-colored key, often used as an icon to represent unlocking or access."
   },
   {
@@ -27816,7 +27816,7 @@
   },
   {
     "path": "/icons/sundries/misc/key-steel-purple.webp",
-    "tags": ["sundries", "misc", "key", "steel", "purple", "metal key", "lock and key", "steel key", "iron key", "purple ribbon around key", "key as an object of importance", "iconography of lock and key", "security symbolism", "access control", "physical security", "mechanical device"],
+    "tags": ["sundries", "misc", "key", "steel", "purple", "metal key", "lock and key", "steel key", "iron key", "purple ribbon around key", "object", "importance", "lock", "security symbolism", "access control", "physical security", "mechanical device"],
     "description": "The image represents a metal key, suggesting themes of access, security, or the concept of having the right to enter or unlock something. The purple ribbon around it may signify exclusivity or being the holder of a secret."
   },
   {
@@ -27826,7 +27826,7 @@
   },
   {
     "path": "/icons/sundries/misc/ladder-improvised.webp",
-    "tags": ["sundries", "misc", "ladder", "improvised", "wooden ladder", "improvised climbing aid", "rung support structure", "ladder with no rungs", "vertical ascent aid", "staircase substitute", "temporary access platform", "simple construction tool for heights"],
+    "tags": ["sundries", "misc", "ladder", "improvised", "wooden ladder", "improvised climbing aid", "rung support structure", "ladder with no rungs", "vertical ascent aid", "staircase substitute", "temporary access platform", "construction", "tool", "heights"],
     "description": "This is a computer-generated image of an improvised ladder, typically made by tying wooden planks together at their ends to create vertical rungs."
   },
   {
@@ -27896,7 +27896,7 @@
   },
   {
     "path": "/icons/sundries/misc/pipe-wooden-straight-brown.webp",
-    "tags": ["sundries", "misc", "pipe", "wooden", "straight", "brown", "strong hint", "descriptive keywords"],
+    "tags": ["sundries", "misc", "pipe", "wooden", "straight", "brown"],
     "description": "A cartoon depiction of a brown wooden straight pipe."
   },
   {
@@ -27961,7 +27961,7 @@
   },
   {
     "path": "/icons/sundries/scrolls/scroll-bound-gold-tan.webp",
-    "tags": ["sundries", "scroll", "bound", "gold", "tan", "thumb", "object", "rolled", "hint", "texture"],
+    "tags": ["sundries", "scroll", "bound", "gold", "tan", "thumb", "object", "rolled", "texture"],
     "description": "A golden scroll with a tan, textured surface rolled up and bound at the top, resembling a seal or symbol for an item."
   },
   {
@@ -28231,7 +28231,7 @@
   },
   {
     "path": "/icons/sundries/scrolls/scroll-symbol-circle-white.webp",
-    "tags": ["sundries", "scroll", "symbol", "circle", "white", "parchment", "ancient", "text", "written", "document", "hint"],
+    "tags": ["sundries", "scroll", "symbol", "circle", "white", "parchment", "ancient", "text", "written", "document"],
     "description": "A circular white scroll with written text, possibly a symbol representing an ancient parchment or document."
   },
   {
@@ -28266,7 +28266,7 @@
   },
   {
     "path": "/icons/sundries/scrolls/scroll-symbol-triangle-tan.webp",
-    "tags": ["sundries", "scroll", "symbol", "triangle", "tan", "ancient", "artifact", "treasure", "map", "game", "adventure", "scroll symbol triangle tan icon ancient artifact treasure map game adventure"],
+    "tags": ["sundries", "scroll", "symbol", "triangle", "tan", "ancient", "artifact", "treasure", "map", "game", "adventure"],
     "description": "This is an icon named 'scroll symbol triangle tan'. It depicts a scroll with an intricate design resembling a triangle, set against a dark background. The colors are warm and earthy, giving it an aged look that suggests it could be part of a treasure map or a game related to adventure."
   },
   {
@@ -28341,7 +28341,7 @@
   },
   {
     "path": "/icons/sundries/scrolls/scroll-yellow-teal.webp",
-    "tags": ["sundries", "scroll", "yellow", "teal", "torah scroll", "jewish religious object", "scroll of kosher laws", "jewish scroll", "symbolic item in judaism", "scroll on a blue background", "scroll with hebrew scripture", "hand-held scroll in a game setting", "scroll on top of an old map", "scroll icon for a religious or mystical game element", "scroll with a yellow and teal background"],
+    "tags": ["sundries", "scroll", "yellow", "teal", "torah scroll", "jewish religious object", "scroll of kosher laws", "jewish scroll", "symbolic item in judaism", "blue", "background", "scroll with hebrew scripture", "hand-held", "game", "setting", "top", "old", "map", "religious", "mystical", "element"],
     "description": "The 'scroll yellow teal' icon depicts a golden, hand-held torah scroll set against a blue background. The scroll features Hebrew text on it, which is characteristic of the Jewish religious object known as a Torah scroll. In a game setting, this symbol might represent an in-game element related to religion, mysticism, or ancient knowledge."
   },
   {
@@ -28566,7 +28566,7 @@
   },
   {
     "path": "/icons/sundries/survival/rope-coiled-tan.webp",
-    "tags": ["sundries", "survival", "rope", "coiled", "tan", "coil", "twisted rope", "tan color", "circular formation", "textured surface", "representational icon", "icon of a coiled rope"],
+    "tags": ["sundries", "survival", "rope", "coiled", "tan", "coil", "twisted rope", "tan color", "circular formation", "textured surface", "representational icon"],
     "description": "The image depicts an icon named 'rope coiled tan'. It represents a rope that is wound in a circular, coiled shape. The color scheme is primarily brown or tan, with the texture suggesting a material like leather or fabric."
   },
   {
@@ -28661,7 +28661,7 @@
   },
   {
     "path": "/icons/sundries/survival/wetskin-leather-red.webp",
-    "tags": ["sundries", "survival", "wetskin", "leather", "red", "strong hint", "brief description", "descriptive keywords", "representative image", "vivid illustration", "illustrated object", "graphic art", "digital drawing", "stylized depiction", "concept representation"],
+    "tags": ["sundries", "survival", "wetskin", "leather", "red", "representative image", "vivid illustration", "illustrated object", "graphic art", "digital drawing", "stylized depiction", "concept representation"],
     "description": "An icon of a red leather object, possibly representing a heart or an organ, with a rope wrapped around it. The name suggests that the leather is wet and has a skin-like texture."
   },
   {
@@ -28796,7 +28796,7 @@
   },
   {
     "path": "/icons/svg/d12-grey.svg",
-    "tags": ["svg", "d12", "gray", "symbol", "game", "hint", "mystery", "adventure", "roll", "die", "monochrome"],
+    "tags": ["svg", "d12", "gray", "symbol", "game", "mystery", "adventure", "roll", "die", "monochrome"],
     "description": "The icon is a stylized depiction of the 'd12' die used in various role-playing games, with a monochromatic color scheme."
   },
   {
@@ -28806,7 +28806,7 @@
   },
   {
     "path": "/icons/svg/d20-grey.svg",
-    "tags": ["svg", "d20", "gray", "roleplaying game", "rpg", "hint", "geometric", "polygon", "grid", "gaming"],
+    "tags": ["svg", "d20", "gray", "roleplaying game", "rpg", "geometric", "polygon", "grid", "gaming"],
     "description": "The icon represents a d20, which is a die commonly used in role-playing games such as Dungeons & Dragons. It's named 'd20 grey' and is depicted with a simple, solid, geometric design to symbolize the randomness and luck inherent in the game."
   },
   {
@@ -28826,7 +28826,7 @@
   },
   {
     "path": "/icons/svg/d6-grey.svg",
-    "tags": ["svg", "d6", "gray", "square", "this is an icon named 'd6 grey'", "abstract", "monochromatic", "rectangular"],
+    "tags": ["svg", "d6", "gray", "square", "abstract", "monochromatic", "rectangular"],
     "description": "The image displays a simple, rectangular shape with a monochrome color scheme, predominantly gray. It is likely an icon or symbol, possibly representing the concept of 'd6' with its geometric form."
   },
   {
@@ -28921,7 +28921,7 @@
   },
   {
     "path": "/icons/svg/fire-shield.svg",
-    "tags": ["svg", "fire", "shield", "flame", "protection", "fire safety", "security", "insurance", "risk mitigation", "safety measures", "defense", "emergency preparedness", "fire prevention", "risk management", "insurance icon", "shield with fire", "black and white emblem", "emblem of protection against fire", "logo for fire insurance company"],
+    "tags": ["svg", "fire", "shield", "flame", "protection", "fire safety", "security", "insurance", "risk mitigation", "safety measures", "defense", "emergency preparedness", "fire prevention", "risk management", "insurance icon", "shield with fire", "black and white emblem", "against", "company"],
     "description": "The 'Fire Shield' is a symbol representing a protective shield designed to ward off or minimize the impact of fire-related risks, such as property damage or loss of life. It typically signifies safety measures and insurance coverage against fire incidents."
   },
   {
@@ -29446,7 +29446,7 @@
   },
   {
     "path": "/icons/tools/fasteners/nut-and-bolt-threaded-screw.webp",
-    "tags": ["tool", "fastener", "nut", "and", "bolt", "threaded", "screw", "mechanical", "assembly", "repair", "construction", "handyman", "workshop", "industrial", "equipment"],
+    "tags": ["tool", "fastener", "nut", "bolt", "threaded", "screw", "mechanical", "assembly", "repair", "construction", "handyman", "workshop", "industrial", "equipment"],
     "description": "An icon representing a nut, bolt, and screw threaded together, commonly used to symbolize repair or construction work."
   },
   {
@@ -29636,7 +29636,7 @@
   },
   {
     "path": "/icons/tools/fishing/net-hand-white.webp",
-    "tags": ["tool", "fishing", "net", "hand", "white", "sport", "game", "volleyball", "hint", "stick", "catcher", "outdoor"],
+    "tags": ["tool", "fishing", "net", "hand", "white", "sport", "game", "volleyball", "stick", "catcher", "outdoor"],
     "description": "This is a 3D animated icon representing the game of volleyball. It depicts a hand holding a white net, commonly used to represent catching or defense in this sport."
   },
   {
@@ -29691,12 +29691,12 @@
   },
   {
     "path": "/icons/tools/fishing/rod-simple-stick-brown-white.webp",
-    "tags": ["tool", "fishing", "rod", "stick", "brown", "white", "hint", "descriptive", "object"],
+    "tags": ["tool", "fishing", "rod", "stick", "brown", "white", "descriptive", "object"],
     "description": "This icon depicts a simple brown and white rod with a twisted string, likely representing some form of connection or attachment."
   },
   {
     "path": "/icons/tools/fishing/rod-simple-stick-brown.webp",
-    "tags": ["tool", "fishing", "rod", "stick", "brown", "hint"],
+    "tags": ["tool", "fishing", "rod", "stick", "brown"],
     "description": "The icon represents a simple stick, possibly used as a rod or for fishing, depicted with brown color and a twisted rope handle at the top."
   },
   {
@@ -29801,7 +29801,7 @@
   },
   {
     "path": "/icons/tools/hand/hammer-and-nail.webp",
-    "tags": ["tool", "hand", "hammer", "and", "nail", "repair", "construction", "crafting", "handyman", "building", "instrument", "diy"],
+    "tags": ["tool", "hand", "hammer", "nail", "repair", "construction", "crafting", "handyman", "building", "instrument", "diy"],
     "description": "An icon representing a hammer and nails, commonly used for construction or repair work."
   },
   {
@@ -30111,7 +30111,7 @@
   },
   {
     "path": "/icons/tools/hand/sickle-steel-grey.webp",
-    "tags": ["tool", "hand", "sickle", "steel", "gray", "sharp", "cutting", "metal", "weapon", "axe", "bladed", "edged", "sword", "hint"],
+    "tags": ["tool", "hand", "sickle", "steel", "gray", "sharp", "cutting", "metal", "weapon", "axe", "bladed", "edged", "sword"],
     "description": "This is an icon named 'sickle steel grey', representing a sharp, metallic tool or weapon that resembles a large pair of scissors."
   },
   {
@@ -30581,7 +30581,7 @@
   },
   {
     "path": "/icons/tools/nautical/rope-line-blue.webp",
-    "tags": ["tool", "nautical", "rope", "line", "blue", "strong", "hint"],
+    "tags": ["tool", "nautical", "rope", "line", "blue", "strong"],
     "description": "A graphic representation of the word 'rope line blue', likely indicating a visual theme or design inspiration for an item related to ropes and lines, perhaps in a nautical context given the sea backdrop."
   },
   {
@@ -30621,7 +30621,7 @@
   },
   {
     "path": "/icons/tools/navigation/hourglass-yellow.webp",
-    "tags": ["tool", "navigation", "hourglass", "yellow", "sand hourglass", "yellow sand in hourglass", "classic hourglass", "timer icon", "countdown symbol", "3d illustration of an hourglass", "icon for time measurement", "graphic representation of a limited time", "time limit image", "waiting graphic"],
+    "tags": ["tool", "navigation", "hourglass", "yellow", "sand hourglass", "yellow sand in hourglass", "classic hourglass", "timer icon", "countdown symbol", "3d", "icon for time measurement", "limited", "time", "time limit image", "waiting graphic"],
     "description": "A stylized yellow hourglass with two sections, indicating a countdown or timer."
   },
   {
@@ -30711,7 +30711,7 @@
   },
   {
     "path": "/icons/tools/navigation/spyglass-telescope-brass-blue.webp",
-    "tags": ["tool", "navigation", "spyglass", "telescope", "brass", "blue", "observation", "space exploration", "navigation aid", "astronomy instrument", "magnifying glass for astronomers", "invented in the 17th century", "sturdy wooden handle", "metallic lens"],
+    "tags": ["tool", "navigation", "spyglass", "telescope", "brass", "blue", "observation", "space exploration", "navigation aid", "astronomy instrument", "magnifying glass for astronomers", "invented", "17th", "century", "sturdy wooden handle", "metallic lens"],
     "description": "A spyglass telescope, a brass and blue navigational tool used to observe celestial bodies from afar."
   },
   {
@@ -31156,7 +31156,7 @@
   },
   {
     "path": "/icons/weapons/ammunition/arrow-simple-brown.webp",
-    "tags": ["weapon", "ammunition", "arrow", "brown", "simple arrow", "brown weapon", "symbolic design", "outline style", "iconography for warfare or combat", "stylized artwork", "monochromatic color scheme", "graphical representation of an arrow", "elemental symbolism", "indicative of adventure or exploration", "modern interpretation of a classic motif"],
+    "tags": ["weapon", "ammunition", "arrow", "brown", "simple arrow", "brown weapon", "symbolic design", "outline style", "warfare", "combat", "stylized artwork", "monochromatic color scheme", "graphical", "elemental symbolism", "indicative", "adventure", "exploration", "interpretation", "classic", "motif"],
     "description": "This image depicts a stylized, brown-colored simple arrow icon that could represent themes of warfare, combat, adventure, or exploration."
   },
   {
@@ -31221,7 +31221,7 @@
   },
   {
     "path": "/icons/weapons/ammunition/explosive-artillery-mortar-shell.webp",
-    "tags": ["weapon", "ammunition", "explosive", "artillery", "mortar", "shell", "strong hint", "hint", "depict", "bomb", "payload", "warhead"],
+    "tags": ["weapon", "ammunition", "explosive", "artillery", "mortar", "shell", "depict", "bomb", "payload", "warhead"],
     "description": "An icon representing a shell, which is an explosive artillery mortar."
   },
   {
@@ -31266,7 +31266,7 @@
   },
   {
     "path": "/icons/weapons/ammunition/explosive-shell-artillery.webp",
-    "tags": ["weapon", "ammunition", "explosive", "shell", "artillery", "strong hint"],
+    "tags": ["weapon", "ammunition", "explosive", "shell", "artillery"],
     "description": "This is an icon named 'explosive shell artillery'. Use the name as a strong hint for what it depicts."
   },
   {
@@ -31566,7 +31566,7 @@
   },
   {
     "path": "/icons/weapons/axes/axe-broad-purple.webp",
-    "tags": ["weapon", "axes", "axe", "broad", "purple", "strong", "hint", "vivid"],
+    "tags": ["weapon", "axes", "axe", "broad", "purple", "strong", "vivid"],
     "description": "This image shows a stylized animated axe icon, characterized by its broad purple design and ornate handle details. It conveys a sense of strength and impact through its vivid color and distinctive features."
   },
   {
@@ -31586,7 +31586,7 @@
   },
   {
     "path": "/icons/weapons/axes/axe-broad-worn-blue.webp",
-    "tags": ["weapon", "axes", "axe", "broad", "worn", "blue", "worn blue", "hint"],
+    "tags": ["weapon", "axes", "axe", "broad", "worn", "blue", "worn blue"],
     "description": "The icon represents a stylized axe with a broad blade, depicted in a worn blue color."
   },
   {
@@ -31711,7 +31711,7 @@
   },
   {
     "path": "/icons/weapons/axes/axe-fire.webp",
-    "tags": ["weapon", "axes", "axe", "fire", "tool", "strong", "hint", "gaming"],
+    "tags": ["weapon", "axes", "axe", "fire", "tool", "strong", "gaming"],
     "description": "The icon depicts a stylized axe, characterized by its wooden handle and metallic blade, with fire engulfing the blade, suggesting it's being used to start a fire or has just been used for that purpose."
   },
   {
@@ -31891,7 +31891,7 @@
   },
   {
     "path": "/icons/weapons/axes/shortaxe-worn-black.webp",
-    "tags": ["weapon", "axes", "shortaxe", "worn", "black", "axe", "skin", "strong", "hint", "tool", "fantasy", "symbol"],
+    "tags": ["weapon", "axes", "shortaxe", "worn", "black", "axe", "skin", "strong", "tool", "fantasy", "symbol"],
     "description": "This is a stylized icon of a short axe with an intricate design, depicted in black and gold tones."
   },
   {
@@ -32171,7 +32171,7 @@
   },
   {
     "path": "/icons/weapons/clubs/club-simple-stone-brown.webp",
-    "tags": ["weapon", "club", "stone", "brown", "hint", "strong", "description"],
+    "tags": ["weapon", "club", "stone", "brown", "strong", "description"],
     "description": "A brown, stone club with a simple design."
   },
   {
@@ -32181,7 +32181,7 @@
   },
   {
     "path": "/icons/weapons/clubs/club-simple-stone.webp",
-    "tags": ["weapon", "club", "stone", "strong", "hint", "depict"],
+    "tags": ["weapon", "club", "stone", "strong", "depict"],
     "description": "The image depicts a stylized representation of a simple stone club with a gold handle, often used in medieval or fantasy settings as a basic weapon."
   },
   {
@@ -32211,7 +32211,7 @@
   },
   {
     "path": "/icons/weapons/crossbows/crossbow-loaded-black.webp",
-    "tags": ["weapon", "crossbow", "loaded", "black", "arrowhead", "target", "archery", "precision", "ready to fire", "gaming", "strong hint", "pointy end"],
+    "tags": ["weapon", "crossbow", "loaded", "black", "arrowhead", "target", "archery", "precision", "ready to fire", "gaming", "pointy end"],
     "description": "A crossbow icon, labeled 'crossbow loaded black', suggesting a weapon designed for long-range accuracy with sharp arrows. This image is often used in games or software to represent the functionality of this item within a game system."
   },
   {
@@ -32621,7 +32621,7 @@
   },
   {
     "path": "/icons/weapons/daggers/knife-kitchen-red.webp",
-    "tags": ["weapon", "dagger", "knife", "kitchen", "red", "strong hint", "hint"],
+    "tags": ["weapon", "dagger", "knife", "kitchen", "red"],
     "description": "A stylized image of a knife set against an abstract background, with the name 'knife kitchen red' suggesting its use as a digital representation of this item."
   },
   {
@@ -32661,7 +32661,7 @@
   },
   {
     "path": "/icons/weapons/fist/brass-knuckles-spiked.webp",
-    "tags": ["weapon", "fist", "brass", "knuckle", "spiked", "crown", "strong", "hint", "punch", "fighter", "boxing"],
+    "tags": ["weapon", "fist", "brass", "knuckle", "spiked", "crown", "strong", "punch", "fighter", "boxing"],
     "description": "A crown with a set of brass knuckles symbolizing royalty and strength combined."
   },
   {
@@ -32871,7 +32871,7 @@
   },
   {
     "path": "/icons/weapons/guns/gun-blunderbuss-worn-brown.webp",
-    "tags": ["weapon", "gun", "blunderbuss", "worn", "brown", "firearm", "hint", "object", "symbol"],
+    "tags": ["weapon", "gun", "blunderbuss", "worn", "brown", "firearm", "object", "symbol"],
     "description": "A brown icon depicting a blunderbuss, which is a type of firearm with multiple barrels designed to fire multiple projectiles simultaneously."
   },
   {
@@ -32936,7 +32936,7 @@
   },
   {
     "path": "/icons/weapons/guns/gun-pistol-wood.webp",
-    "tags": ["weapon", "gun", "pistol", "wood", "firearm", "wooden", "symbolic representation of a pistol", "game element", "gun icon", "flat design"],
+    "tags": ["weapon", "gun", "pistol", "wood", "firearm", "wooden", "game element", "gun icon", "flat design"],
     "description": "This is an icon named 'gun pistol wood'. It depicts a wooden gun, often used as a symbol for firearms in games or other forms of media."
   },
   {
@@ -33031,7 +33031,7 @@
   },
   {
     "path": "/icons/weapons/guns/pistol-automatic-silenced.webp",
-    "tags": ["weapon", "gun", "pistol", "automatic", "silenced", "automatic pistol", "silent gun", "iconic weapon", "symbol of power and danger", "weapon with silencer", "illustrated firearm", "cartoon representation of a gun", "handgun symbol", "violence iconography", "action and adventure emblem"],
+    "tags": ["weapon", "gun", "pistol", "automatic", "silenced", "automatic pistol", "silent gun", "iconic weapon", "power", "danger", "weapon with silencer", "illustrated firearm", "handgun symbol", "violence iconography", "action and adventure emblem"],
     "description": "The icon depicts an automatic pistol, characterized by its silencer feature indicated by the circular line surrounding it. This image is often used to represent violence, power, or danger in a visual medium."
   },
   {
@@ -33131,7 +33131,7 @@
   },
   {
     "path": "/icons/weapons/guns/pistol-revolver-long.webp",
-    "tags": ["weapon", "gun", "pistol", "revolver", "long", "firearm", "shooting", "strong hint", "cartoon representation"],
+    "tags": ["weapon", "gun", "pistol", "revolver", "long", "firearm", "shooting", "cartoon representation"],
     "description": "This is a simple icon of a revolver, likely used as part of an interface or for educational purposes to denote firearms or weapons."
   },
   {
@@ -33587,7 +33587,7 @@
   {
     "path": "/icons/weapons/maces/flail-studded-grey.webp",
     "tags": ["weapon", "mace", "flail", "studded", "gray", "mjoll", "chainmail glove", "warrior", "armor", "skin of beast", "runic inscription", "battle", "weaponry", "combat"],
-    "description": "This is a flail, a medieval war weapon consisting of a metal spiked ball attached to a handle with a chain. The image shows the weapon in two parts—the head (spiked ball) and the grip (handle with chain)."
+    "description": "This is a flail, a medieval war weapon consisting of a metal spiked ball attached to a handle with a chain. The image shows the weapon in two partsÃ¢â‚¬â€the head (spiked ball) and the grip (handle with chain)."
   },
   {
     "path": "/icons/weapons/maces/flail-triple-grey.webp",
@@ -33706,12 +33706,12 @@
   },
   {
     "path": "/icons/weapons/misc/whip-leather.webp",
-    "tags": ["weapon", "misc", "whip", "leather", "cartoon whip", "leather whip", "strong hint", "whip icon", "violent symbolism", "cartoon depiction", "representative image", "thematic emblem"],
+    "tags": ["weapon", "misc", "whip", "leather", "cartoon whip", "leather whip", "whip icon", "violent symbolism", "cartoon depiction", "representative image", "thematic emblem"],
     "description": "A stylized, cartoon-like representation of a leather whip with a curved handle and a taut leash."
   },
   {
     "path": "/icons/weapons/misc/whip-red-yellow.webp",
-    "tags": ["weapon", "misc", "whip", "red", "yellow", "punishment", "tool", "strong hint", "symbol", "fiery", "thematic", "graphic representation"],
+    "tags": ["weapon", "misc", "whip", "red", "yellow", "punishment", "tool", "symbol", "fiery", "thematic", "graphic representation"],
     "description": "The icon depicts a stylized whip, emitting flames, suggesting a strong and fierce theme."
   },
   {
@@ -33841,7 +33841,7 @@
   },
   {
     "path": "/icons/weapons/polearms/spear-flared-blue.webp",
-    "tags": ["weapon", "polearm", "spear", "flared", "blue", "flared blue", "pointy", "war", "shield", "blue tip", "arrowhead", "metal", "gaming", "hint"],
+    "tags": ["weapon", "polearm", "spear", "flared", "blue", "flared blue", "pointy", "war", "shield", "blue tip", "arrowhead", "metal", "gaming"],
     "description": "A graphic representation of a spear with a flared blue pointy head and shaft, often used as an icon for gaming or to symbolize war or shielding."
   },
   {
@@ -34011,7 +34011,7 @@
   },
   {
     "path": "/icons/weapons/polearms/spear-simple-stone-green.webp",
-    "tags": ["weapon", "polearm", "spear", "stone", "green", "hint"],
+    "tags": ["weapon", "polearm", "spear", "stone", "green"],
     "description": "A stylized icon of a spear with a green stone at the end, set against a dark background to represent its presence and strength."
   },
   {
@@ -34031,7 +34031,7 @@
   },
   {
     "path": "/icons/weapons/polearms/trident-curved-steel.webp",
-    "tags": ["weapon", "polearm", "trident", "curved", "steel", "strong", "hint"],
+    "tags": ["weapon", "polearm", "trident", "curved", "steel", "strong"],
     "description": "A curved, trident-like steel icon suggesting a weapon with multiple points for use."
   },
   {
@@ -34186,7 +34186,7 @@
   },
   {
     "path": "/icons/weapons/slings/sling-leather.webp",
-    "tags": ["weapon", "sling", "leather", "strong", "hint", "depict", "strap", "curved", "object", "shape", "vintage", "texture"],
+    "tags": ["weapon", "sling", "leather", "strong", "depict", "strap", "curved", "object", "shape", "vintage", "texture"],
     "description": "A vintage-style sling strap, rendered in a rich leather texture with curved embellishments."
   },
   {
@@ -34211,7 +34211,7 @@
   },
   {
     "path": "/icons/weapons/staves/staff-animal-bull.webp",
-    "tags": ["weapon", "staves", "staff", "animal", "bull", "strong", "hint", "brief"],
+    "tags": ["weapon", "staves", "staff", "animal", "bull", "strong", "brief"],
     "description": "A staff that combines animalistic features with a bull's head as the handle."
   },
   {
@@ -34936,7 +34936,7 @@
   },
   {
     "path": "/icons/weapons/swords/sword-jeweled-red.webp",
-    "tags": ["weapon", "sword", "jeweled", "red", "strong", "hint", "metal", "decorative", "gemstone", "fantasy", "warrior"],
+    "tags": ["weapon", "sword", "jeweled", "red", "strong", "metal", "decorative", "gemstone", "fantasy", "warrior"],
     "description": "The icon features a sword with a distinctive red jeweled crossguard and handle, giving it an elegant yet powerful appearance."
   },
   {
@@ -35166,7 +35166,7 @@
   },
   {
     "path": "/icons/weapons/thrown/dynamite-simple-brown.webp",
-    "tags": ["weapon", "thrown", "dynamite", "brown", "explosive", "cartoon dynamite", "brown paper", "simple design", "symbol of power", "weapon icon", "comic style", "minimalistic representation", "red and white color scheme"],
+    "tags": ["weapon", "thrown", "dynamite", "brown", "explosive", "cartoon dynamite", "brown paper", "simple design", "symbol of power", "weapon icon", "comic style", "minimalistic representation", "red", "white", "color"],
     "description": "A simple, cartoon-style representation of a bomb or explosive device with a brown wrapper and a lit fuse."
   },
   {
@@ -35261,12 +35261,12 @@
   },
   {
     "path": "/icons/weapons/thrown/throwing-brick.webp",
-    "tags": ["weapon", "thrown", "throwing", "brick", "strong hint", "description", "game asset", "blocky", "pile", "stone", "square", "brown", "abstract", "artistic", "creative", "themed", "fictional", "imaginary"],
+    "tags": ["weapon", "thrown", "throwing", "brick", "description", "game asset", "blocky", "pile", "stone", "square", "brown", "abstract", "artistic", "creative", "themed", "fictional", "imaginary"],
     "description": "This is an icon named 'throwing brick'. It depicts a cartoon-style pile of brown stones or bricks in a square format."
   },
   {
     "path": "/icons/weapons/thrown/throwing-knife-flat-steel.webp",
-    "tags": ["weapon", "thrown", "throwing", "knife", "steel", "sharp", "flat steel", "metal", "symbol", "hint", "description"],
+    "tags": ["weapon", "thrown", "throwing", "knife", "steel", "sharp", "flat steel", "metal", "symbol", "description"],
     "description": "A throwing knife made of flat steel, often used for self-defense or combat."
   },
   {
@@ -35291,12 +35291,12 @@
   },
   {
     "path": "/icons/weapons/thrown/throwing-stone.webp",
-    "tags": ["weapon", "thrown", "throwing", "stone", "rock", "action", "symbol", "gold border", "hint"],
+    "tags": ["weapon", "thrown", "throwing", "stone", "rock", "action", "symbol", "gold border"],
     "description": "An icon with a rock in a hand, depicting the action of throwing or using stones."
   },
   {
     "path": "/icons/weapons/thrown/throwing-trident-steel.webp",
-    "tags": ["weapon", "thrown", "throwing", "trident", "steel", "tool", "throwing trident", "strong hint"],
+    "tags": ["weapon", "thrown", "throwing", "trident", "steel", "tool", "throwing trident"],
     "description": "An illustration of a metal throwing trident with three shafts radiating from the handle, indicating a weapon or tool used for striking."
   },
   {
@@ -35393,5 +35393,110 @@
     "path": "/icons/weapons/wands/wand-totem.webp",
     "tags": ["weapon", "wand", "totem", "stick", "mask", "stone", "feather", "plant", "wood", "craft", "indian", "magical", "spiritual", "native american"],
     "description": "The image depicts a stylized representation of a 'wand totem' which appears to be a fusion of a staff with a mask and plant elements. It is designed to look mystical or spiritually significant."
+  },
+  {
+    "path": "/icons/anvil.png",
+    "tags": ["anvil", "blacksmith", "metalworking", "tool", "hammer", "forging", "crafting", "hardware", "symbol", "blackandwhite", "silhouette", "equipment", "machinery"],
+    "description": "This icon represents an anvil, a key tool used in metalworking and blacksmithing for forging and shaping metal."
+  },
+  {
+    "path": "/icons/commodities/biological/organ-stomach.webp",
+    "tags": ["commodity", "biological", "organ", "stomach", "digestive system", "organ stomach", "abdominal", "human anatomy", "gastrointestinal tract", "gastrointestinal organs", "stomach illustration", "gastrointestinal health", "stomach diseases", "digestive health", "stomach medical", "digestive system function"],
+    "description": "This is an icon named 'organ stomach'. Use the name as a strong hint for what it depicts. It illustrates the human stomach, a key part of the digestive system responsible for breaking down food and producing stomach acid."
+  },
+  {
+    "path": "/icons/commodities/cloth/cloth-roll-worn-blue.webp",
+    "tags": ["commodity", "cloth", "roll", "worn", "blue", "clothing", "texture", "fabric", "tube", "cylinder", "material", "wear", "visual", "computer", "user", "input", "interface", "virtual", "electronic", "user interface", "accessory", "symbol", "electronic device", "screen", "virtual item"],
+    "description": "This is a graphic icon representing a cloth roll worn in blue. It is designed to be a user input element for an interface, possibly for a virtual clothing item or accessory selection."
+  },
+  {
+    "path": "/icons/commodities/gems/gem-rough-heart-teal.webp",
+    "tags": ["commodity", "gem", "rough", "heart", "teal", "ice", "rock", "space", "precious", "jewel", "mineral", "crystal"],
+    "description": "The icon depicts a heart-shaped gem in a deep teal color, surrounded by rough ice-like crystals, set against a cosmic background with stars and planets, evoking a sense of a precious mineral found in outer space."
+  },
+  {
+    "path": "/icons/commodities/tech/coil-steel-grey.webp",
+    "tags": ["commodity", "tech", "coil", "steel", "gray", "engine", "mechanical", "industrial", "gear", "component", "machine", "engineering", "assembly", "metal"],
+    "description": "A stylized representation of a coil gear, possibly indicating a mechanical or industrial theme."
+  },
+  {
+    "path": "/icons/consumables/drinks/wine-amphora-cup-gray.webp",
+    "tags": ["consumables", "drink", "wine", "amphora", "cup", "gray", "container", "vessel", "traditional", "ornate", "handled", "vintage", "ceramic", "decorative", "artistic", "storage", "beverage", "culture", "ceramic art", "classical", "ancient", "collector", "pottery", "greek", "roman", "roman pottery", "ritual", "greek vase", "fine art", "archaeological", "historical", "museum piece", "collectible"],
+    "description": "This is an icon named 'wine amphora cup gray'. It depicts an ancient Greek or Roman style amphora, possibly for wine, with intricate patterns and a handle for carrying, set against a dark background that could suggest antiquity or mystery."
+  },
+  {
+    "path": "/icons/containers/barrels/barrel-steel-drum-red.webp",
+    "tags": ["container", "barrel", "steel", "drum", "red", "red barrel", "steel drum", "storage", "industrial", "heavy", "metal", "oil", "resource", "commodity", "supplies", "stockpile"],
+    "description": "A depiction of a large steel barrel, often used for storing resources or commodities such as crude oil."
+  },
+  {
+    "path": "/icons/environment/traps/saw-mechanical-steel.webp",
+    "tags": ["environment", "trap", "saw", "mechanical", "steel", "weapon", "sharp", "tactical", "tool", "game", "industrial", "cutting"],
+    "description": "This icon represents a mechanical saw, possibly used as a weapon or a cutting tool in games or a tactical setting, characterized by its metallic appearance and sharp teeth."
+  },
+  {
+    "path": "/icons/equipment/chest/breastplate-helmet-metal.webp",
+    "tags": ["equipment", "chest", "breastplate", "helmet", "metal", "armor", "protective gear", "warrior", "defense", "medieval", "chainmail", "soldier", "heraldry"],
+    "description": "This icon represents a breastplate and helmet, typically used by a warrior or knight for protection in battle. The design suggests a sturdy, durable metal construction, possibly reflecting medieval armor. It's a symbol of defense and resilience."
+  },
+  {
+    "path": "/icons/equipment/neck/necklace-astrology-moon-blue.webp",
+    "tags": ["equipment", "neck", "necklace", "astrology", "moon", "blue", "moonstone", "jewelry", "symbol", "spiritual", "mystic", "talisman", "magic", "lunar", "celestial", "crystal"],
+    "description": "Necklace with a blue moonstone charm, symbolizing lunar energy and celestial mysticism."
+  },
+  {
+    "path": "/icons/fvtt.png",
+    "tags": ["fvtt", "fantasy", "dice", "adventure", "gaming", "symbol", "treasure", "gemstone", "golden", "gear", "roleplaying", "quest", "rpg", "fortune", "luck", "magic", "wizard", "puzzle", "jewel", "pirate", "map", "lottery", "jackpot"],
+    "description": "The image shows three icons, likely from a game or a fantasy-themed setting, featuring symbols that suggest adventure, gaming, and possibly treasure or adventure themes."
+  },
+  {
+    "path": "/icons/logo-scifi.png",
+    "tags": ["scifi", "d&d logo", "dice logo", "d&d icon", "blue dice", "scifi logo", "futuristic icon", "fantasy logo", "gear symbol", "science fiction emblem", "adventure icon", "roleplaying symbol"],
+    "description": "A logo for a science fiction roleplaying game, featuring a blue dice with a gear symbol on it, possibly representing a fantasy or adventure theme."
+  },
+  {
+    "path": "/icons/logo-scifi-blank.png",
+    "tags": ["scifi", "blank", "science fiction", "glowing", "3d", "abstract", "geometry", "cyberpunk", "futuristic", "abstract design"],
+    "description": "A futuristic icon with a glowing, abstract, 3D design, possibly for a science fiction-themed project. The icon features a blank logo with a digital, cyberpunk aesthetic."
+  },
+  {
+    "path": "/icons/magic/death/bones-crossed-gray.webp",
+    "tags": ["magic", "death", "bone", "crossed", "gray", "symbol", "skeletal", "intersection", "skull", "cross", "medical", "silhouette"],
+    "description": "This icon appears to depict crossed bones in a stylized gray design, possibly symbolizing a concept related to anatomy, skeletons, or the intersection of human physiology."
+  },
+  {
+    "path": "/icons/magic/symbols/runes-star-pentagon-blue.webp",
+    "tags": ["magic", "symbol", "rune", "star", "pentagon", "blue", "energy", "mystical", "power", "esoteric", "spiritual", "wizardry", "mysticism", "occult"],
+    "description": "The image is of a blue star-like pentagon with intricate swirling designs and runes inside it, suggesting mystical or magical properties."
+  },
+  {
+    "path": "/icons/skills/ranged/bullets-triple-ball-ice-blue.webp",
+    "tags": ["skill", "ranged", "bullet", "triple", "ball", "ice", "blue", "science", "space", "planet", "energy", "light ray", "galaxy", "abstract", "astronomy", "explosion", "cosmic", "particle"],
+    "description": "An icon depicting a blue ball with light rays emanating from it, set against a backdrop of a cosmic scene with planets and stars."
+  },
+  {
+    "path": "/icons/sundries/scrolls/scroll-bound-grey-tan.webp",
+    "tags": ["sundries", "scroll", "bound", "gray", "tan", "magic", "binding", "item", "equipment", "wizard", "fantasy"],
+    "description": "A scroll tied to a cord, suggesting a binding spell that could be either magical or symbolic in nature, often depicted in fantasy settings as a wizard's item."
+  },
+  {
+    "path": "/icons/sundries/scrolls/scroll-runed-brown-purple.webp",
+    "tags": ["sundries", "scroll", "runed", "brown", "purple", "rune", "magic", "mystic", "spell", "ancient", "artefact", "enchanted", "occult", "fantasy", "wizard", "mage", "arcane", "elemental"],
+    "description": "An enigmatic artifact, possibly a scroll or tome, with ancient runes etched onto its surface, suggesting mystical or magical properties."
+  },
+  {
+    "path": "/icons/vtt.png",
+    "tags": ["vtt", "dice", "tabletop", "role-playing", "game", "rpg", "dungeon", "dragon", "magic", "adventure", "gaming", "geek", "fantasy", "symbol", "legendary", "epic"],
+    "description": "This icon depicts a legendary, epic, and symbolic dice, reminiscent of a fantasy tabletop role-playing game (RPG) like Dungeons & Dragons (D&D). The dice feature Asian-inspired symbols, which might suggest a magical or mystical adventure theme."
+  },
+  {
+    "path": "/icons/vtt-512.png",
+    "tags": ["vtt", "512", "dice", "gaming", "d&d", "roleplaying", "tabletop", "rpg", "dnd", "character", "randomness", "chance", "number"],
+    "description": "The icon depicts a red 20-sided die used for tabletop roleplaying games, such as Dungeons & Dragons (D&D). It represents the randomness and chance involved in character creation and gameplay."
+  },
+  {
+    "path": "/icons/magic/control/orb-web-hold.webp",
+    "tags": ["magic", "control", "orb", "web", "hold", "ball", "energy", "science fiction", "futuristic", "abstract", "light effect"],
+    "description": "A futuristic orb web hold icon with light effects."
   }
 ]
